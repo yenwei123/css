@@ -60,11 +60,11 @@
 	span.TWOPerfect{
 		position: absolute;//設為絕對定位(absolute)
 		font-weight: bold;
-		top: 128px;
-		right : 234px; 
+		top: 89px;
+		right : 154px; 
 		color: #3f7995;
 		font-weight:bold;
-		font-size: 20px;
+		font-size: 12px;
 		text-align: center;
 	}
 	
@@ -80,7 +80,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 180px;right : 200px;font-size: 45px;font-weight: 500;
+		top: 120px;right : 138px;font-size: 25px;font-weight: 500;
 	}
 	
 	span.植物來源益生菌{
@@ -88,7 +88,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 250px; right : 130px;font-size: 45px;font-weight: 500;
+		top: 161px; right : 101px;font-size: 25px;font-weight: 500;
 	}
 	
 	span.一包雙效{
@@ -96,7 +96,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 660px;right : 240px;font-size: 30px;
+		top: 431px;right : 146px;font-size: 25px;
 	}
 
 	span.調理生理機能{
@@ -104,7 +104,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 720px;right : 200px;font-size: 30px;
+		top: 470px;right : 120px;font-size: 25px;
 	}
 
 	span.促進新陳代謝{
@@ -112,7 +112,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 780px;right : 200px;font-size: 30px; 
+		top: 512px;right : 120px;font-size: 25px; 
 	}
 
 	span.植萃{
@@ -120,7 +120,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 924px;right : 354px;font-size: 15px;
+		top: 600px;right : 227px;font-size: 10px;
 	}
 
 	span.無麩質{
@@ -128,7 +128,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 924px;right : 276px;font-size: 15px;
+		top: 600px;right : 175px;font-size: 10px;
 	}
 	
 	span.天然{
@@ -136,7 +136,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 924px;right : 214px;font-size: 15px;
+		top: 600px;right : 137px;font-size: 10px;
 	}
 	
 	span.永續地球{
@@ -144,7 +144,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 962px;right : 268px;font-size: 15px;font-weight: 600;
+		top: 625px;right : 169px;font-size: 10px;font-weight: 600;
 	}
 
 	span.我們致力於打造天然的保健品{
@@ -152,7 +152,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 983px;right : 195px;font-size: 15px;font-weight: 600;
+		top: 644px;right : 118px;font-size: 10px;font-weight: 600;
 	}
 
 	span.選擇讓自然的能量成為永續的力量{
@@ -160,7 +160,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 1005px;right : 183px;font-size: 15px;font-weight: 600;
+		top: 663px;right : 107px;font-size: 10px;font-weight: 600;
 	}
 	
 	span.全{
