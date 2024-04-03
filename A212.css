@@ -900,8 +900,6 @@
 	
 	span.每一小包含{
 		position: absolute;//設為絕對定位(absolute)
- 
-		color: #017895;
 		text-align: center;
 		top: 78px;right : 452px;font-size: 20px;color: #4f4e4c;font-weight: 700;
 	}
@@ -915,7 +913,7 @@
 	span.SNK乳酸菌2{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 169px;right : 457px;font-size: 20px;color: #878787;font-weight: 600;"
+		top: 169px;right : 457px;font-size: 20px;color: #878787;font-weight: 600;
 	}
 	
 	span.菊糖{
