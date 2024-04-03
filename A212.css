@@ -165,86 +165,7 @@
 }
 
 
-@media screen and (min-width: 768px) {
 
-	div.main {
-	  display: flex; /* 彈性排版 */
-	  flex-direction: column; /* 彈性方向:列(縱) */
-	  justify-content: center; /* 版面內容:中間 */
-	}
-	
-    div.Ans{
-		font-size: 24px;
-		color:gray;
-		line-height:0.8;
-		margin-left: 30%;
-		margin-right: 38%;
-		width:445px;
-		height:200px;
-		line-height:2;
-		margin-bottom:1%;
-		float:left;
-		text-indent: -2.5rem;
-		text-align-last: left;
-
-	}
-	
-	div.Q{
-		display:inline-block;
-		position: relative;
-		border-width: 1px;
-		border-style: solid; 
-		height: 48px; 
-		border-color: gray; 
-		border-radius: 50px; 
-		letter-spacing: 3px;
-		margin-left:25%
-
-	}
-	
-	div.imgmain {
-		display: flex;
-		justify-content: center;
-
-	}
-	
-	span.QW{
-		position: absolute;
-		top: 8px;
-		right :10px; 
-		font-size: 25px;
-		/*margin-left:5px;*/
-		margin-bottom：25px;
-		line-height: 30px;
-		color:gray;
-	}
-	span.Qback{
-		width:45px; 
-		height:40px; 
-		text-align: center;
-	}
-
-	span.TWOPerfect{
-		position: absolute;//設為絕對定位(absolute)
- 
-		top: 129px;
-		right : 254px; 
-		color: #3f7995;
-		font-weight:bold;
-		font-size: 20px
-		text-align: center;
-	}
-	
-	span.blueword{
-		position: absolute;//設為絕對定位(absolute)
- 
-		color: #017895;
-		text-align: center;
-	}
-
-
-
-}
 
 
 @media screen and (min-width: 920px) {
@@ -308,11 +229,12 @@
 
 	span.TWOPerfect{
 		position: absolute;//設為絕對定位(absolute)
-		top: 128px;
-		right : 234px; 
+		font-weight: bold;
+		top: 129px;
+		right : 254px; 
 		color: #3f7995;
 		font-weight:bold;
-		font-size: 20px;
+		font-size: 20px
 		text-align: center;
 	}
 	
@@ -1031,11 +953,6 @@
 	}
 	
 	
-	span.久坐上班族{
-		position: absolute;//設為絕對定位(absolute)
-		text-align: center;
-		top: 66px;right : 210px;font-size: 35px;color: #feffff;font-weight:800;letter-spacing:5px
-	}
 	
 	
 	
