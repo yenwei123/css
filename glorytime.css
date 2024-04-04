@@ -1,4 +1,10 @@
 @media screen and (min-width: 375px) {
+	
+	div.imgmain {
+		display: flex;
+		justify-content: center;
+
+	}
 
 	span.暢快舒敏{
 		position: absolute;
@@ -27,6 +33,12 @@
 	
 }
 @media screen and (min-width: 650px) {
+	
+	div.imgmain {
+		display: flex;
+		justify-content: center;
+
+	}
 
 	span.暢快舒敏{
 		position: absolute;
@@ -56,6 +68,12 @@
 }
 
 @media screen and (min-width: 920px) {
+	
+	div.imgmain {
+		display: flex;
+		justify-content: center;
+
+	}
 
 	span.暢快舒敏{
 		position: absolute;
