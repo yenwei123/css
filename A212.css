@@ -359,25 +359,25 @@
 	span.益生質2{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 37px;right : 166px;font-size: 10px;color: #52514f;font-weight: 700;
+		top: 15px;right : 166px;font-size: 10px;color: #52514f;font-weight: 700;
 	}
 
 	span.大獎肯定{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 54px;right : 146px;font-size: 22px;color: #52514f;font-weight: 500;
+		top: 32px;right : 146px;font-size: 22px;color: #52514f;font-weight: 500;
 	}
 	
 	span.益生質於2020年獲頒肯定{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 111px;right : 103px;font-size: 11px;color: #828282;font-weight: 500;
+		top: 89px;right : 103px;font-size: 11px;color: #828282;font-weight: 500;
 	}
 	
 	span.年度最佳益生質{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 131px;right : 84px;font-size: 11px;color: #828282;font-weight: 500;
+		top: 109px;right : 84px;font-size: 11px;color: #828282;font-weight: 500;
 	}
 	
 	span.II{
@@ -985,6 +985,22 @@
 		  object-position: center;
 	}
 	
+	div.d4{
+		text-align:center; position: relative;height:675px;width:385.43px;justify-content: center;
+	}
+	
+	.d4 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
 }
 
 @media screen and (min-width: 630px) {
@@ -1277,7 +1293,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 718px;right : 510px;font-size: 20px;
+		top: 696px;right : 510px;font-size: 20px;
 	}
 
 	span.造{
@@ -1357,7 +1373,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 50px;right : 245px;font-size: 15px;color: #52514f;font-weight: 700;
+		top: 38px;right : 245px;font-size: 15px;color: #52514f;font-weight: 700;
 	}
 
 	span.大獎肯定{
@@ -1365,7 +1381,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 74px;right : 219px;font-size: 31px;color: #52514f;font-weight: 500;
+		top: 52px;right : 219px;font-size: 31px;color: #52514f;font-weight: 500;
 	}
 	
 	span.益生質於2020年獲頒肯定{
@@ -1373,7 +1389,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 165px;right : 153px;font-size: 18px;color: #828282;font-weight: 500;
+		top: 143px;right : 153px;font-size: 18px;color: #828282;font-weight: 500;
 	}
 	
 	span.年度最佳益生質{
@@ -1381,7 +1397,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 189px;right : 118px;font-size: 18px;color: #828282;font-weight: 500;
+		top: 167px;right : 118px;font-size: 18px;color: #828282;font-weight: 500;
 	}
 	
 	span.II{
@@ -2093,6 +2109,22 @@
 	}
 	
 	.d3 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d4{
+		text-align:center; position: relative;height:675px;width:600px;justify-content: center;
+	}
+	
+	.d4 img {
 		  position: absolute;
 		  top: 0;
 		  right: 0;
@@ -2478,7 +2510,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 50px;right : 245px;font-size: 15px;color: #52514f;font-weight: 700;
+		top: 38px;right : 245px;font-size: 15px;color: #52514f;font-weight: 700;
 	}
 
 	span.大獎肯定{
@@ -2486,7 +2518,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 74px;right : 219px;font-size: 31px;color: #52514f;font-weight: 500;
+		top: 52px;right : 219px;font-size: 31px;color: #52514f;font-weight: 500;
 	}
 	
 	span.益生質於2020年獲頒肯定{
@@ -2494,7 +2526,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 165px;right : 153px;font-size: 18px;color: #828282;font-weight: 500;
+		top: 143px;right : 153px;font-size: 18px;color: #828282;font-weight: 500;
 	}
 	
 	span.年度最佳益生質{
@@ -2502,7 +2534,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 189px;right : 118px;font-size: 18px;color: #828282;font-weight: 500;
+		top: 167px;right : 118px;font-size: 18px;color: #828282;font-weight: 500;
 	}
 	
 	span.II{
@@ -3214,6 +3246,22 @@
 	}
 	
 	.d3 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d4{
+		text-align:center; position: relative;height:675px;width:600px;justify-content: center;
+	}
+	
+	.d4 img {
 		  position: absolute;
 		  top: 0;
 		  right: 0;
