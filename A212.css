@@ -353,7 +353,7 @@
 	span.選擇暢快舒敏植物來源益生菌四大理由{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 45px;right : 24px;font-size: 20px;color: #cbe8ea;font-weight: 700;
+		top: 23px;right : 24px;font-size: 20px;color: #cbe8ea;font-weight: 700;
 	}
 
 	span.益生質2{
@@ -969,9 +969,25 @@
 		  object-position: center;
 	}
 	
+	div.d3{
+		text-align:center; position: relative;height:200px;width:385.43px;justify-content: center;
+	}
+	
+	.d3 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 630px) {
 
 	div.main {
 	  display: flex; /* 彈性排版 */
@@ -1333,7 +1349,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 62px;right : 56px;font-size: 29px;color: #cbe8ea;font-weight: 700;
+		top: 40px;right : 56px;font-size: 29px;color: #cbe8ea;font-weight: 700;
 	}
 
 	span.益生質2{
@@ -2061,6 +2077,22 @@
 	}
 	
 	.d2 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d3{
+		text-align:center; position: relative;height:200px;width:600px;justify-content: center;
+	}
+	
+	.d3 img {
 		  position: absolute;
 		  top: 0;
 		  right: 0;
@@ -2366,7 +2398,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 718px;right : 510px;font-size: 20px;
+		top: 696px;right : 510px;font-size: 20px;
 	}
 
 	span.造{
@@ -2438,7 +2470,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 62px;right : 56px;font-size: 29px;color: #cbe8ea;font-weight: 700;
+		top: 40px;right : 56px;font-size: 29px;color: #cbe8ea;font-weight: 700;
 	}
 
 	span.益生質2{
@@ -3166,6 +3198,22 @@
 	}
 	
 	.d2 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d3{
+		text-align:center; position: relative;height:200px;width:600px;justify-content: center;
+	}
+	
+	.d3 img {
 		  position: absolute;
 		  top: 0;
 		  right: 0;
