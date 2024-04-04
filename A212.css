@@ -1878,6 +1878,14 @@
 		top: 717px;right : 144px;font-size: 13px;color: #666563;font-weight:500;
 	}
 	
+	p.p1{
+		background-image: url('//cdn.cybassets.com/s/files/24541/ckeditor/pictures/content_ec888569-6c1f-4c4c-a0a2-6761723d0e3a.jpg');
+		background-repeat: no-repeat;
+		background-position: center;
+		height:385px;
+		width:693px;
+	}
+	
 }
 
 @media screen and (min-width: 540px) {
@@ -2947,6 +2955,14 @@
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
 		top: 1096px;right : 207px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	p.p1{
+		background-image: url('//cdn.cybassets.com/s/files/24541/ckeditor/pictures/content_ec888569-6c1f-4c4c-a0a2-6761723d0e3a.jpg');
+		background-repeat: no-repeat;
+		background-position: center;
+		height:385px;
+		width:693px;
 	}
 	
 }
@@ -4024,8 +4040,8 @@
 		background-image: url('//cdn.cybassets.com/s/files/24541/ckeditor/pictures/content_ec888569-6c1f-4c4c-a0a2-6761723d0e3a.jpg');
 		background-repeat: no-repeat;
 		background-position: center;
-		height:580px;
-		width:200px;
+		height:1080px;
+		width:600px;
 	}
 	
 }
