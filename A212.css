@@ -937,6 +937,14 @@
 		top: 717px;right : 144px;font-size: 13px;color: #666563;font-weight:500;
 	}
 	
+	div.p1{
+		height:1080px;
+		width:390px;
+		background-image: url('//cdn.cybassets.com/s/files/24541/ckeditor/pictures/content_ec888569-6c1f-4c4c-a0a2-6761723d0e3a.jpg');
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size:600px 1080px;
+	}
 	
 	div.d1{
 		text-align:center; position: relative;height:1080px;width:385.43px;justify-content: center;
@@ -2024,6 +2032,14 @@
 		top: 1096px;right : 207px;font-size: 20px;color: #666563;font-weight:500;
 	}
 	
+	div.p1{
+		height:1080px;
+		width:600px;
+		background-image: url('//cdn.cybassets.com/s/files/24541/ckeditor/pictures/content_ec888569-6c1f-4c4c-a0a2-6761723d0e3a.jpg');
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size:600px 1080px;
+	}
 	
 	div.d1{
 		text-align:center; position: relative;height:1080px;width:600px;justify-content: center;
@@ -3111,9 +3127,8 @@
 		top: 1096px;right : 207px;font-size: 20px;color: #666563;font-weight:500;
 	}
 	
-	
 	div.d1{
-		text-align:center; position: relative;height:1080px;width:600px;justify-content: center;
+		text-align:center; position: relative;height:1070px;width:600px;justify-content: center;
 	}
 		
 	.d1 img {
@@ -4200,7 +4215,7 @@
 	}
 	
 	div.d1{
-		text-align:center; position: relative;height:1080px;width:600px;justify-content: center;
+		text-align:center; position: relative;height:1070px;width:600px;justify-content: center;
 	}
 	
 	.d1 img {
