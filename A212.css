@@ -949,19 +949,9 @@
 	div.d1{
 		text-align:center; position: relative;height:1080px;width:385.43px;justify-content: center;
 	}
-	.d1 img {
-		  position: absolute;
-		  top: 0;
-		  right: 0;
-		  left: 0;
-		  bottom: 0;
-		  width: 100%;
-		  height: 100%;
-		  object-fit: cover;
-		  object-position: center;
-	}
 	
 }
+
 
 @media screen and (min-width: 600px) {
 
@@ -2044,17 +2034,6 @@
 	div.d1{
 		text-align:center; position: relative;height:1080px;width:600px;justify-content: center;
 	}
-	.d1 img {
-		  position: absolute;
-		  top: 0;
-		  right: 0;
-		  left: 0;
-		  bottom: 0;
-		  width: 100%;
-		  height: 100%;
-		  object-fit: cover;
-		  object-position: center;
-	}
 	
 }
 
@@ -3127,8 +3106,17 @@
 		top: 1096px;right : 207px;font-size: 20px;color: #666563;font-weight:500;
 	}
 	
+	div.p1{
+		height:1080px;
+		width:600px;
+		background-image: url('//cdn.cybassets.com/s/files/24541/ckeditor/pictures/content_ec888569-6c1f-4c4c-a0a2-6761723d0e3a.jpg');
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size:600px 1080px;
+	}
+	
 	div.d1{
-		text-align:center; position: relative;height:1070px;width:600px;justify-content: center;
+		text-align:center; position: relative;height:1080px;width:600px;justify-content: center;
 	}
 		
 	.d1 img {
@@ -3207,7 +3195,7 @@
 	span.TWOPerfect{
 		position: absolute;//設為絕對定位(absolute)
 		font-weight: bold;
-		top: 128px;
+		top: 101px;
 		right : 234px; 
 		color: #3f7995;
 		font-weight:bold;
@@ -3235,7 +3223,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 250px; right : 130px;font-size: 45px;font-weight: 500;
+		top: 223px; right : 130px;font-size: 45px;font-weight: 500;
 	}
 	
 	span.一包雙效{
@@ -3243,7 +3231,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 660px;right : 240px;font-size: 30px;
+		top: 633px;right : 240px;font-size: 30px;
 	}
 
 	span.調理生理機能{
@@ -3251,7 +3239,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 720px;right : 200px;font-size: 30px;
+		top: 693px;right : 200px;font-size: 30px;
 	}
 
 	span.促進新陳代謝{
@@ -3259,7 +3247,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 780px;right : 200px;font-size: 30px; 
+		top: 753px;right : 200px;font-size: 30px; 
 	}
 
 	span.植萃{
@@ -3267,7 +3255,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 924px;right : 354px;font-size: 15px;
+		top: 897px;right : 354px;font-size: 15px;
 	}
 
 	span.無麩質{
@@ -3275,7 +3263,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 924px;right : 276px;font-size: 15px;
+		top: 897px;right : 276px;font-size: 15px;
 	}
 	
 	span.天然{
@@ -3283,7 +3271,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 924px;right : 214px;font-size: 15px;
+		top: 897px;right : 214px;font-size: 15px;
 	}
 	
 	span.永續地球{
@@ -3291,7 +3279,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 962px;right : 268px;font-size: 15px;font-weight: 600;
+		top: 935px;right : 268px;font-size: 15px;font-weight: 600;
 	}
 
 	span.我們致力於打造天然的保健品{
@@ -3299,7 +3287,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 983px;right : 195px;font-size: 15px;font-weight: 600;
+		top: 956px;right : 195px;font-size: 15px;font-weight: 600;
 	}
 
 	span.選擇讓自然的能量成為永續的力量{
@@ -3307,7 +3295,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 1005px;right : 183px;font-size: 15px;font-weight: 600;
+		top: 978px;right : 183px;font-size: 15px;font-weight: 600;
 	}
 	
 	span.全{
@@ -4215,7 +4203,7 @@
 	}
 	
 	div.d1{
-		text-align:center; position: relative;height:1070px;width:600px;justify-content: center;
+		text-align:center; position: relative;height:1080px;width:600px;justify-content: center;
 	}
 	
 	.d1 img {
@@ -4229,7 +4217,6 @@
 		  object-fit: cover;
 		  object-position: center;
 	}
-	
 	
 	
 }
