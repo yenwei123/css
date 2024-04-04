@@ -1023,7 +1023,7 @@
 	}
 	
 	div.d7{
-		text-align:center; position: relative;height:1200px;width:360px;justify-content: center;
+		text-align:center; position: relative;height:800px;width:360px;justify-content: center;
 	}
 	
 	.d7 img {
@@ -3114,25 +3114,25 @@
 		position: absolute;//設為絕對定位(absolute)
 		color: #017895;
 		text-align: center;
-		top: 28px;right : 262px;font-size: 20px;color: #4f4e4c;font-weight: 700;
+		top: 56px;right : 452px;font-size: 20px;color: #4f4e4c;font-weight: 700;
 	}
 	
 	span.凝乳芽孢乳酸菌4{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 67px;right : 263px;font-size: 20px;color: #878787;font-weight: 600;
+		top: 112px;right : 420px;font-size: 20px;color: #878787;font-weight: 600;
 	}
 
 	span.SNK乳酸菌2{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 88px;right : 286px;font-size: 20px;color: #878787;font-weight: 600;
+		top: 147px;right : 457px;font-size: 20px;color: #878787;font-weight: 600;
 	}
 	
 	span.菊糖{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 109px;right : 324px;font-size: 20px;color: #878787;font-weight: 600;
+		top: 185px;right : 517px;font-size: 20px;color: #878787;font-weight: 600;
 	}
 	
 	span.黃金奇異果粉4{
@@ -3140,7 +3140,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 131px;right : 277px;font-size: 20px;color: #878787;font-weight: 600;
+		top: 221px;right : 436px;font-size: 20px;color: #878787;font-weight: 600;
 	}
 	
 	span.mg200{
@@ -3148,103 +3148,103 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 65px;right : 50px;font-size: 20px;color: #878787;font-weight: 600;
+		top: 110px;right : 50px;font-size: 20px;color: #878787;font-weight: 600;
 	}
 	
 	span.mg30{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 101px;right : 50px;font-size: 20px;color: #878787;font-weight: 600;
+		top: 146px;right : 50px;font-size: 20px;color: #878787;font-weight: 600;
 	}
 
 	span.mg1640{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 139px;right : 50px;font-size: 20px;color: #878787;font-weight: 600;
+		top: 184px;right : 50px;font-size: 20px;color: #878787;font-weight: 600;
 	}
 	
 	span.mg100{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 175px;right : 50px;font-size: 20px;color: #878787;font-weight: 600;
+		top: 220px;right : 50px;font-size: 20px;color: #878787;font-weight: 600;
 	}
 	
 	span.其他完整成分{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 193px;right : 255px;font-size: 17px;color: #878787;font-weight: 600;
+		top: 325px;right : 431px;font-size: 17px;color: #878787;font-weight: 600;
 	}
 	
 	span.二氧化矽{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 193px;right : 308px;font-size: 17px;color: #878787;font-weight: 600;
+		top: 325px;right : 308px;font-size: 17px;color: #878787;font-weight: 600;
 	}
 	
 	span.建議食用方式{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 251px;right : 421px;font-size: 20px;color: #494846;font-weight: 600;
+		top: 412px;right : 421px;font-size: 20px;color: #494846;font-weight: 600;
 	}
 	
 	span.每次1包{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 275px;right : 341px;font-size: 25px;color: #494846;font-weight: 800;
+		top: 448px;right : 341px;font-size: 25px;color: #494846;font-weight: 800;
 	}
 	
 	span.搭配冷或溫開水食用{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 311px;right : 259px;font-size: 15px;color: #878787;font-weight: 600;
+		top: 493px;right : 259px;font-size: 15px;color: #878787;font-weight: 600;
 	}
 	
 	span.每日請勿超過2包{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 329px;right : 340px;font-size: 15px;color: #878787;font-weight: 600;
+		top: 518px;right : 340px;font-size: 15px;color: #878787;font-weight: 600;
 	}
 	
 	span.嗯嗯不順{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 67px;right : 281px;font-size: 10px;color: #f6fcfc;font-weight:300;
+		top: 107px;right : 471px;font-size: 10px;color: #f6fcfc;font-weight:300;
 	}
 	
 	span.調解體質{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 67px;right : 199px;font-size: 10px;color: #f6fcfc;font-weight:300;
+		top: 107px;right : 339px;font-size: 10px;color: #f6fcfc;font-weight:300;
 	}
 	
 	span.容易敏感{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 67px;right : 123px;font-size: 10px;color: #f6fcfc;font-weight:300;
+		top: 107px;right : 209px;font-size: 10px;color: #f6fcfc;font-weight:300;
 	}
 	
 	span.蔬果捨攝取不足者{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 67px;right : 28px;font-size: 10px;color: #f6fcfc;font-weight:300;
+		top: 107px;right : 55px;font-size: 10px;color: #f6fcfc;font-weight:300;
 	}
 	
 	span.少運動者{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 133px;right : 246px;font-size: 10px;color: #f6fcfc;font-weight:300;
+		top: 219px;right : 415px;font-size: 10px;color: #f6fcfc;font-weight:300;
 	}
 	
 	span.經常外食者{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 133px;right : 160px;font-size: 10px;color: #f6fcfc;font-weight:300;
+		top: 219px;right : 270px;font-size: 10px;color: #f6fcfc;font-weight:300;
 	}
 	
 	span.久坐上班族{
 		position: absolute;//設為絕對定位(absolute)
 		text-align: center;
-		top: 133px;right : 75px;font-size: 10px;color: #f6fcfc;font-weight:300;
+		top: 219px;right : 130px;font-size: 10px;color: #f6fcfc;font-weight:300;
 	}
 	
 	span.商品問題{
@@ -3438,7 +3438,7 @@
 		  object-position: center;
 	}
 	div.d5{
-		text-align:center; position: relative;height:530px;width:600px;justify-content: center;
+		text-align:center; position: relative;height:900px;width:600px;justify-content: center;
 	}
 	
 	.d5 img {
@@ -3470,7 +3470,7 @@
 	}
 	
 	div.d7{
-		text-align:center; position: relative;height:800px;width:600px;justify-content: center;
+		text-align:center; position: relative;height:1300px;width:600px;justify-content: center;
 	}
 	
 	.d7 img {
