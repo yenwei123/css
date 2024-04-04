@@ -949,6 +949,17 @@
 	div.d1{
 		text-align:center; position: relative;height:1080px;width:385.43px;justify-content: center;
 	}
+	.d1 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
 	
 }
 
@@ -2034,6 +2045,17 @@
 	div.d1{
 		text-align:center; position: relative;height:1080px;width:600px;justify-content: center;
 	}
+	.d1 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
 	
 }
 
@@ -3118,6 +3140,18 @@
 	div.d1{
 		text-align:center; position: relative;height:1080px;width:600px;justify-content: center;
 	}
+		
+	.d1 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
 	
 }
 
@@ -4190,17 +4224,20 @@
 		top: 1096px;right : 207px;font-size: 20px;color: #666563;font-weight:500;
 	}
 	
-	div.p1{
-		height:1080px;
-		width:600px;
-		background-image: url('//cdn.cybassets.com/s/files/24541/ckeditor/pictures/content_ec888569-6c1f-4c4c-a0a2-6761723d0e3a.jpg');
-		background-repeat: no-repeat;
-		background-position: center;
-		background-size:600px 1080px;
-	}
-	
 	div.d1{
 		text-align:center; position: relative;height:1080px;width:600px;justify-content: center;
+	}
+	
+	.d1 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
 	}
 	
 	
