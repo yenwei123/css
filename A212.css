@@ -4020,6 +4020,14 @@
 		top: 1096px;right : 207px;font-size: 20px;color: #666563;font-weight:500;
 	}
 	
+	p.p1{
+		background-image: url('//cdn.cybassets.com/s/files/24541/ckeditor/pictures/content_ec888569-6c1f-4c4c-a0a2-6761723d0e3a.jpg');
+		background-repeat: no-repeat;
+		background-position: center;
+		height:580px;
+		width:200px;
+	}
+	
 }
 
 @media screen and (min-width: 920px) {
@@ -5090,5 +5098,14 @@
 		text-align: center;
 		top: 1096px;right : 207px;font-size: 20px;color: #666563;font-weight:500;
 	}
+	
+	p.p1{
+		background-image: url('//cdn.cybassets.com/s/files/24541/ckeditor/pictures/content_ec888569-6c1f-4c4c-a0a2-6761723d0e3a.jpg');
+		background-repeat: no-repeat;
+		background-position: center;
+		height:1080px;
+		width:600px;
+	}
+	
 	
 }
