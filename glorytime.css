@@ -1,0 +1,3537 @@
+@media screen and (min-width: 375px) {
+
+	div.main {
+	  display: flex; /* 彈性排版 */
+	  flex-direction: column; /* 彈性方向:列(縱) */
+	  justify-content: center; /* 版面內容:中間 */
+	}
+	
+    div.Ans{
+		font-size: 24px;
+		color:gray;
+		line-height:0.8;
+		margin-left: 30%;
+		margin-right: 38%;
+		width:445px;
+		height:200px;
+		line-height:2;
+		margin-bottom:1%;
+		float:left;
+		text-indent: -2.5rem;
+		text-align-last: left;
+
+	}
+	
+	div.Q{
+		display:inline-block;
+		position: relative;
+		border-width: 1px;
+		border-style: solid; 
+		height: 48px; 
+		border-color: gray; 
+		border-radius: 50px; 
+		letter-spacing: 3px;
+		margin-left:25%
+
+	}
+	
+	div.imgmain {
+		display: flex;
+		justify-content: center;
+
+	}
+	
+	span.QW{
+		position: absolute;
+		top: 8px;
+		right :10px; 
+		font-size: 25px;
+		/*margin-left:5px;*/
+		margin-bottom：25px;
+		line-height: 30px;
+		color:gray;
+	}
+	span.Qback{
+		width:45px; 
+		height:40px; 
+		text-align: center;
+	}
+
+	span.TWOPerfect{
+		position: absolute;
+		top: 63px;
+		right : 144px; 
+		color: #3f7995;
+		font-weight:bold;
+		font-size: 12px;
+		text-align: center;
+	}
+	
+	span.blueword{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+	}
+	
+	span.暢快舒敏{
+		position: absolute;
+		color: #017895;
+		text-align: center;
+		top: 94px;right : 128px;font-size: 25px;font-weight: 500;
+	}
+	
+	span.植物來源益生菌{
+		position: absolute;
+		color: #017895;
+		text-align: center;
+		top: 135px; right : 91px;font-size: 25px;font-weight: 500;
+	}
+	
+	span.一包雙效{
+		position: absolute;
+		color: #017895;
+		text-align: center;
+		top: 384px;right : 136px;font-size: 25px;
+	}
+
+	span.調理生理機能{
+		position: absolute;
+		color: #017895;
+		text-align: center;
+		top: 420px;right : 110px;font-size: 25px;
+	}
+
+	span.促進新陳代謝{
+		position: absolute;
+		color: #017895;
+		text-align: center;
+		top: 457px;right : 110px;font-size: 25px; 
+	}
+
+	span.植萃{
+		position: absolute;
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 545px;right : 217px;font-size: 10px;
+	}
+
+	span.無麩質{
+		position: absolute;
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 545px;right : 166px;font-size: 10px;
+	}
+	
+	span.天然{
+		position: absolute;
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 545px;right : 127px;font-size: 10px;
+	}
+	
+	span.永續地球{
+		position: absolute;
+		color: #017895;
+		text-align: center;
+		top: 574px;right : 159px;font-size: 10px;font-weight: 600;
+	}
+
+	span.我們致力於打造天然的保健品{
+		position: absolute;
+		color: #017895;
+		text-align: center;
+		top: 593px;right : 108px;font-size: 10px;font-weight: 600;
+	}
+
+	span.選擇讓自然的能量成為永續的力量{
+		position: absolute;
+		color: #017895;
+		text-align: center;
+		top: 613px;right : 99px;font-size: 10px;font-weight: 600;
+	}
+	
+	span.全{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 26px;right : 305px;font-size: 15px;
+	}
+
+	span.植{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 26px;right : 273px;font-size: 15px;
+	}
+
+	span.萃{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 26px;right : 238px;font-size: 15px;
+	}
+
+	span.益{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 26px;right : 206px;font-size: 15px;
+	}
+
+	span.生{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 26px;right : 173px;font-size: 15px;
+	}
+
+	span.菌{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 26px;right : 140px;font-size: 15px;
+	}	
+
+	span.大{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 26px;right : 107px;font-size: 15px;
+	}
+
+	span.升{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 26px;right : 74px;font-size: 15px;
+	}
+
+	span.級{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 26px;right : 41px;font-size: 15px;
+	}
+
+	span.益源質{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		text-align: center;
+		top: 112px;right : 113px;font-size: 25px;color: #7de314;
+	}
+
+	span.Biogenics{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		text-align: center;
+		top: 144px;right : 116px;font-size: 15px;color: #7de314;
+	}
+
+	span.益生菌{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 254px;right : 247px;font-size: 25px;color: #02cc9c;
+	}
+
+	span.Probiotics{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		text-align: center;
+		top: 284px;right : 250px;font-size: 15px;color: #02cc9c;
+	}
+	
+	span.益生質{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		text-align: center;
+		top: 300px;right : 43px;font-size: 25px;color: #14a0c1;
+	}
+	
+	span.Prebiotics{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		text-align: center;
+		top: 330px;right : 45px;font-size: 15px;color: #14a0c1;
+	}
+
+	span.打{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 416px;right : 305px;font-size: 15px;
+	}
+
+	span.造{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 416px;right : 273px;font-size: 15px;
+	}
+
+	span.優{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 416px;right : 240px;font-size: 15px;
+	}
+
+	span.質{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 416px;right : 206px;font-size: 15px;
+	}
+
+	span.菌2{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 416px;right : 173px;font-size: 15px;
+	}
+	
+	span.相{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 416px;right : 140px;font-size: 15px;
+	}
+
+	span.金{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 416px;right : 107px;font-size: 15px;
+	}
+
+	span.三{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 416px;right : 74px;font-size: 15px;
+	}
+
+	span.角{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 416px;right : 41px;font-size: 15px;
+	}
+	
+	span.選擇暢快舒敏植物來源益生菌四大理由{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 18px;right : 6px;font-size: 20px;color: #cbe8ea;font-weight: 700;
+	}
+
+	span.益生質2{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 15px;right : 166px;font-size: 10px;color: #52514f;font-weight: 700;
+	}
+
+	span.大獎肯定{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 32px;right : 146px;font-size: 22px;color: #52514f;font-weight: 500;
+	}
+	
+	span.益生質於2020年獲頒肯定{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 82px;right : 88px;font-size: 11px;color: #828282;font-weight: 500;
+	}
+	
+	span.年度最佳益生質{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 103px;right : 66px;font-size: 11px;color: #828282;font-weight: 500;
+	}
+	
+	span.II{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 35px;right : 91px;font-size: 20px;color: #337792;font-weight: 500;
+	}
+
+	span.排便不順族群{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 233px;right : 72px;font-size: 15px;color: #337792;font-weight: 300;
+	}
+
+	span.嚴選成分讓菌叢生態系多元完整{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 302px;right : 49px;font-size: 10px;color: #337792;font-weight: 400;
+	}
+
+	span.禦外來攻擊排便順暢{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 318px;right : 49px;font-size: 10px;color: #337792;font-weight: 400;
+	}
+
+	span.III{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 24px;right : 66px;font-size: 24px;color: #444341;font-weight: 500;
+	}
+
+	span.凝乳芽孢桿菌{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 261px;right : 210px;font-size: 10px;color: #878787;font-weight: 500;
+	}
+
+	span.日本專利{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 258px;right : 45px;font-size: 10px;color: #878787;font-weight: 500;
+	}
+
+	span.微化型植物乳酸菌{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 274px;right : 65px;font-size: 10px;color: #878787;font-weight: 500;
+	}
+	
+
+	span.黃金奇異果粉{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 356px;right : 212px;font-size: 10px;color: #878787;font-weight: 500;
+	}
+	
+	span.Sensus{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 356px;right : 66px;font-size: 10px;color: #878787;font-weight: 500;
+	}
+	
+	span.除了有維持正常消化道菌叢生態{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 395px;right : 62px;font-size: 9px;color: #878787;font-weight: 500;
+	}
+	
+	span.孢桿菌BC1031{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 409px;right : 67px;font-size: 9px;color: #878787;font-weight: 500;
+	}
+	
+	span.能{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 424px;right : 72px;font-size: 9px;color: #878787;font-weight: 500;
+	}
+	
+	
+	span.替身體打造更完{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 440px;right : 65px;font-size: 9px;color: #878787;font-weight: 500;
+	}
+	
+	span.整多元的菌叢生態系{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 455px;right : 209px;font-size: 9px;color: #878787;font-weight: 500;
+	}
+	
+	span.IV{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 20px;right : 58px;font-size: 26px;color: #fffffe;font-weight: 500;
+	}
+	
+	span.地球只有一個{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 70px;right : 46px;font-size: 10px;color: #fffffe;font-weight: 300;
+	}
+	
+	span.康{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 86px;right : 47px;font-size: 10px;color: #fffffe;font-weight: 300;
+	}
+	
+	span.使我們不斷努力打造更天然{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 1045px;right : 107px;font-size: 10px;color: #fffffe;font-weight: 300;
+	}
+	
+	span.成分原料{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 65px;right : 135px;font-size: 22px;color: #474342;font-weight: 500;
+	}
+	
+	span.我們該清楚明白地知道{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 104px;right : 70px;font-size: 18px;color: #474342;font-weight: 600;
+	}
+	
+	span.凝乳芽孢桿菌BC10312{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 156px;right : 73px;font-size: 15px;color: #474342;font-weight: 700;
+	}
+	
+	span.具有高穩定性{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 185px;right : 40px;font-size: 10px;color: #898989;font-weight: 500;
+	}
+	
+	span.有機酸與抑菌素{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 201px;right : 40px;font-size: 10px;color: #898989;font-weight: 500;
+	}
+
+	span.正常消化道菌叢生態{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 217px;right : 120px;font-size: 10px;color: #898989;font-weight: 500;
+	}
+	
+	span.通過美國GRAS{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 233px;right : 66px;font-size: 10px;color: #898989;font-weight: 500;
+	}
+	
+	span.範檢驗{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 250px;right : 122px;font-size: 10px;color: #898989;font-weight: 500;
+	}
+
+	span.日本專利2{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 290px;right : 41px;font-size: 15px;color: #474342;font-weight: 700;
+	}
+	
+	span.微化型植物乳酸菌2{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 313px;right : 97px;font-size: 15px;color: #474342;font-weight: 700;
+	}
+
+	span.透過專利{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 341px;right : 42px;font-size: 10px;color: #898989;font-weight: 500;
+	}
+	
+	span.術{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 357px;right : 42px;font-size: 10px;color: #898989;font-weight: 500;
+	}
+	
+	span.能為人體提供健康益處的益生菌菌體成分{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 375px;right : 42px;font-size: 10px;color: #898989;font-weight: 500;
+	}
+
+	span.貨菌的代謝產物{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 392px;right : 42px;font-size: 10px;color: #898989;font-weight: 500;
+	}
+	
+	span.質安全有保障{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 408px;right : 152px;font-size: 10px;color: #898989;font-weight: 500;
+	}
+	
+	span.黃金奇異果粉3{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 450px;right : 70px;font-size: 15px;color: #474342;font-weight: 700;
+	}
+	
+	span.採用SunGold{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 480px;right : 42px;font-size: 10px;color: #898989;font-weight: 500;
+	}
+	
+	span.專利製程專利凍乾技術{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 497px;right : 43px;font-size: 10px;color: #898989;font-weight: 500;
+	}
+
+	span.奇異果酵素活性和纖維含量{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 512px;right : 90px;font-size: 10px;color: #898989;font-weight: 500;
+	}
+	
+	span.此外{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 528px;right : 50px;font-size: 10px;color: #898989;font-weight: 500;
+	}
+	
+	span.能提升普世糞桿菌含量{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 543px;right : 40px;font-size: 10px;color: #898989;font-weight: 500;
+	}
+	
+	span.有益於調整體質{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 557px;right : 140px;font-size: 10px;color: #898989;font-weight: 500;
+	}
+
+	span.菊苣纖維{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 599px;right : 98px;font-size: 15px;color: #474342;font-weight: 700;
+	}
+
+	span.來自天然菊苣植物{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 629px;right : 43px;font-size: 10px;color: #898989;font-weight: 500;
+	}
+	
+	span.的根是Frutafit{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 645px;right : 48px;font-size: 10px;color: #898989;font-weight: 500;
+	}
+	
+	span.然來源低聚果糖{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 661px;right : 38px;font-size: 10px;color: #898989;font-weight: 500;
+	}
+	
+	span.食纖維及益生質{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 676px;right : 38px;font-size: 10px;color: #898989;font-weight: 500;
+	}
+	
+	span.機能{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 691px;right : 55px;font-size: 10px;color: #898989;font-weight: 500;
+	}
+
+	span.狀態{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 706px;right : 58px;font-size: 10px;color: #898989;font-weight: 500;
+	}
+	
+	span.符合天然標準{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 719px;right : 148px;font-size: 10px;color: #898989;font-weight: 500;
+	}
+	
+	span.每一小包含{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 27px;right : 260px;font-size: 15px;color: #4f4e4c;font-weight: 700;
+	}
+	
+	span.凝乳芽孢乳酸菌4{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 66px;right : 258px;font-size: 12px;color: #878787;font-weight: 600;
+	}
+
+	span.SNK乳酸菌2{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 88px;right : 279px;font-size: 12px;color: #878787;font-weight: 600;
+	}
+	
+	span.菊糖{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 112px;right : 315px;font-size: 12px;color: #878787;font-weight: 600;
+	}
+	
+	span.黃金奇異果粉4{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 135px;right : 268px;font-size: 12px;color: #878787;font-weight: 600;
+	}
+	
+	span.mg200{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 65px;right : 30px;font-size: 12px;color: #878787;font-weight: 600;
+	}
+	
+	span.mg30{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 88px;right : 30px;font-size: 12px;color: #878787;font-weight: 600;
+	}
+
+	span.mg1640{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 112px;right : 30px;font-size: 12px;color: #878787;font-weight: 600;
+	}
+	
+	span.mg100{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 136px;right : 30px;font-size: 12px;color: #878787;font-weight: 600;
+	}
+	
+	span.其他完整成分{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 193px;right : 255px;font-size: 12px;color: #878787;font-weight: 600;
+	}
+	
+	span.二氧化矽{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 193px;right : 164px;font-size: 12px;color: #878787;font-weight: 600;
+	}
+	
+	span.建議食用方式{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 250px;right : 261px;font-size: 15px;color: #494846;font-weight: 600;
+	}
+	
+	span.每次1包{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 276px;right : 188px;font-size: 20px;color: #494846;font-weight: 800;
+	}
+	
+	span.搭配冷或溫開水食用{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 313px;right : 177px;font-size: 9px;color: #878787;font-weight: 600;
+	}
+	
+	span.每日請勿超過2包{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 333px;right : 226px;font-size: 9px;color: #878787;font-weight: 600;
+	}
+	
+	span.嗯嗯不順{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 65px;right : 300px;font-size: 7px;color: #f6fcfc;font-weight:300;
+	}
+	
+	span.調解體質{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 65px;right : 200px;font-size: 7px;color: #f6fcfc;font-weight:300;
+	}
+	
+	span.容易敏感{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 65px;right : 122px;font-size: 7px;color: #f6fcfc;font-weight:300;
+	}
+	
+	span.蔬果捨攝取不足者{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 65px;right : 27px;font-size: 7px;color: #f6fcfc;font-weight:300;
+	}
+	
+	span.少運動者{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 135px;right : 246px;font-size: 7px;color: #f6fcfc;font-weight:300;
+	}
+	
+	span.經常外食者{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 135px;right : 159px;font-size: 7px;color: #f6fcfc;font-weight:300;
+	}
+	
+	span.久坐上班族{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 135px;right : 76px;font-size: 7px;color: #f6fcfc;font-weight:300;
+	}
+	
+	span.商品問題{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 31px;right : 103px;font-size: 30px;color: #feffff;font-weight:800;letter-spacing:5px;
+	}	
+
+	span.什麼是植物來源益生菌{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 117px;right : 115px;font-size: 16px;color: #454341;font-weight:800;
+	}	
+	
+	span.專門為素食者打造{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 154px;right : 16px;font-size: 12px;color: #666563;font-weight:500;
+	}
+	
+	span.皆採用全植萃成分{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 174px;right : 16px;font-size: 12px;color: #666563;font-weight:500;
+	}
+	
+	span.專利認證實踐{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 194px;right : 15px;font-size: 12px;color: #666563;font-weight:500;
+	}
+	
+	span.打造專屬於你黃金菌叢生態比例{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 215px;right : 112px;font-size: 12px;color: #666563;font-weight:500;
+	}
+	
+	span.暢快舒敏植物來源益生菌建議食用方法{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 262px;right : 4px;font-size: 16px;color: #454341;font-weight:800;
+	}
+	
+	span.益生菌建議每次一包{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 296px;right : 16px;font-size: 12px;color: #666563;font-weight:500;
+	}
+	
+	span.酸菌BC1031具有高穩定性和耐受性等特性{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 317px;right : 20px;font-size: 12px;color: #666563;font-weight:500;
+	}
+	
+	span.降低益生菌在消化道中被酵素破壞的機率{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 337px;right : 15px;font-size: 12px;color: #666563;font-weight:500;
+	}
+	
+	span.飯後皆可食用喔{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 359px;right : 197px;font-size: 12px;color: #666563;font-weight:500;
+	}
+	
+	span.暢快舒敏植物來源益生菌推薦原因{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 404px;right : 34px;font-size: 16px;color: #454341;font-weight:800;
+	}
+	
+	
+	span.嚴選獨特的孢子型凝乳芽孢桿菌BC1031{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 442px;right : 22px;font-size: 12px;color: #666563;font-weight:500;
+	}
+	
+	span.的防護殼{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 463px;right : 17px;font-size: 12px;color: #666563;font-weight:500;
+	}
+	
+	span.常溫中保留滿滿活性{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 483px;right : 17px;font-size: 12px;color: #666563;font-weight:500;
+	}
+	
+	span.複方{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 503px;right : 65px;font-size: 12px;color: #666563;font-weight:500;
+	}
+	
+	span.暢快舒敏植物來源益生菌吃多久才有效{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 547px;right : 6px;font-size: 16px;color: #454341;font-weight:800;	
+	}
+	
+	span.補充益生菌是為了調整體質{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 586px;right : 14px;font-size: 12px;color: #666563;font-weight:500;
+	}
+	
+	span.於幫助消化道機能{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 607px;right : 13px;font-size: 12px;color: #666563;font-weight:500;
+	}
+	
+	span.吃{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 628px;right : 20px;font-size: 12px;color: #666563;font-weight:500;
+	}
+	
+	span.品牌反而不容易看到成效喔{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 651px;right : 136px;font-size: 12px;color: #666563;font-weight:500;
+	}
+	
+	div.d1{
+		text-align:center; position: relative;height:700px;width:360px;justify-content: center;
+	}
+	
+	.d1 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d2{
+		text-align:center; position: relative;height:500px;width:360px;justify-content: center;
+	}
+	
+	.d2 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d3{
+		text-align:center; position: relative;height:200px;width:360px;justify-content: center;
+	}
+	
+	.d3 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d4{
+		text-align:center; position: relative;height:500px;width:360px;justify-content: center;
+	}
+	
+	.d4 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d5{
+		text-align:center; position: relative;height:510px;width:360px;justify-content: center;
+	}
+	
+	.d5 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d6{
+		text-align:center; position: relative;height:200px;width:360px;justify-content: center;
+	}
+	
+	.d6 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d7{
+		text-align:center; position: relative;height:800px;width:360px;justify-content: center;
+	}
+	
+	.d7 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d8{
+		text-align:center; position: relative;height:400px;width:360px;justify-content: center;
+	}
+	
+	.d8 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d9{
+		text-align:center; position: relative;height:150px;width:360px;justify-content: center;
+	}
+	
+	.d9 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d10{
+		text-align:center; position: relative;height:700px;width:360px;justify-content: center;
+	}
+	
+	.d10 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+}
+
+@media screen and (min-width: 650px) {
+
+	div.main {
+	  display: flex; /* 彈性排版 */
+	  flex-direction: column; /* 彈性方向:列(縱) */
+	  justify-content: center; /* 版面內容:中間 */
+	}
+	
+    div.Ans{
+		font-size: 24px;
+		color:gray;
+		line-height:0.8;
+		margin-left: 30%;
+		margin-right: 38%;
+		width:445px;
+		height:200px;
+		line-height:2;
+		margin-bottom:1%;
+		float:left;
+		text-indent: -2.5rem;
+		text-align-last: left;
+
+	}
+	
+	div.Q{
+		display:inline-block;
+		position: relative;
+		border-width: 1px;
+		border-style: solid; 
+		height: 48px; 
+		border-color: gray; 
+		border-radius: 50px; 
+		letter-spacing: 3px;
+		margin-left:25%
+
+	}
+	
+	div.imgmain {
+		display: flex;
+		justify-content: center;
+
+	}
+	
+	span.QW{
+		position: absolute;
+		top: 8px;
+		right :10px; 
+		font-size: 25px;
+		/*margin-left:5px;*/
+		margin-bottom：25px;
+		line-height: 30px;
+		color:gray;
+	}
+	span.Qback{
+		width:45px; 
+		height:40px; 
+		text-align: center;
+	}
+
+	span.TWOPerfect{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		top: 101px;
+		right : 234px; 
+		color: #3f7995;
+		font-weight:bold;
+		font-size: 20px;
+		text-align: center;
+	}
+	
+	span.blueword{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+	}
+	
+	span.暢快舒敏{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 180px;right : 200px;font-size: 45px;font-weight: 500;
+	}
+	
+	span.植物來源益生菌{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 223px; right : 130px;font-size: 45px;font-weight: 500;
+	}
+	
+	span.一包雙效{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 633px;right : 240px;font-size: 30px;
+	}
+
+	span.調理生理機能{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 693px;right : 200px;font-size: 30px;
+	}
+
+	span.促進新陳代謝{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 753px;right : 200px;font-size: 30px; 
+	}
+
+	span.植萃{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 897px;right : 354px;font-size: 15px;
+	}
+
+	span.無麩質{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 897px;right : 276px;font-size: 15px;
+	}
+	
+	span.天然{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 897px;right : 214px;font-size: 15px;
+	}
+	
+	span.永續地球{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 935px;right : 268px;font-size: 15px;font-weight: 600;
+	}
+
+	span.我們致力於打造天然的保健品{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 956px;right : 195px;font-size: 15px;font-weight: 600;
+	}
+
+	span.選擇讓自然的能量成為永續的力量{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 978px;right : 183px;font-size: 15px;font-weight: 600;
+	}
+	
+	span.全{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 49px;right : 510px;font-size: 20px;
+	}
+
+	span.植{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 49px;right : 456px;font-size: 20px;
+	}
+
+	span.萃{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 49px;right : 401px;font-size: 20px;
+	}
+
+	span.益{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 49px;right : 345px;font-size: 20px;
+	}
+
+	span.生{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 49px;right : 290px;font-size: 20px;
+	}
+
+	span.菌{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 49px;right : 236px;font-size: 20px;
+	}	
+
+	span.大{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 49px;right : 181px;font-size: 20px;
+	}
+
+	span.升{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 49px;right : 126px;font-size: 20px;
+	}
+
+	span.級{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 49px;right : 72px;font-size: 20px;
+	}
+
+	span.益源質{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 194px;right : 201px;font-size: 30px;color: #7de314;
+	}
+
+	span.Biogenics{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 233px;right : 201px;font-size: 20px;color: #7de314;
+	}
+
+	span.益生菌{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 434px;right : 429px;font-size: 30px;color: #02cc9c;
+	}
+
+	span.Probiotics{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 472px;right : 425px;font-size: 20px;color: #02cc9c;
+	}
+	
+	span.益生質{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 509px;right : 88px;font-size: 30px;color: #14a0c1;
+	}
+	
+	span.Prebiotics{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 547px;right : 87px;font-size: 20px;color: #14a0c1;
+	}
+
+	span.打{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 696px;right : 510px;font-size: 20px;
+	}
+
+	span.造{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 696px;right : 455px;font-size: 20px;
+	}
+
+	span.優{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 696px;right : 401px;font-size: 20px;
+	}
+
+	span.質{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 696px;right : 345px;font-size: 20px;
+	}
+
+	span.菌2{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 696px;right : 290px;font-size: 20px;
+	}
+	
+	span.相{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 696px;right : 236px;font-size: 20px;
+	}
+
+	span.金{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 696px;right : 181px;font-size: 20px;
+	}
+
+	span.三{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 696px;right : 126px;font-size: 20px;
+	}
+
+	span.角{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 696px;right : 72px;font-size: 20px;
+	}
+	
+	span.選擇暢快舒敏植物來源益生菌四大理由{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 40px;right : 56px;font-size: 29px;color: #cbe8ea;font-weight: 700;
+	}
+
+	span.益生質2{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 31px;right : 249px;font-size: 15px;color: #52514f;font-weight: 700;
+	}
+
+	span.大獎肯定{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 52px;right : 219px;font-size: 31px;color: #52514f;font-weight: 500;
+	}
+	
+	span.益生質於2020年獲頒肯定{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 143px;right : 153px;font-size: 18px;color: #828282;font-weight: 500;
+	}
+	
+	span.年度最佳益生質{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 167px;right : 118px;font-size: 18px;color: #828282;font-weight: 500;
+	}
+	
+	span.II{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 52px;right : 152px;font-size: 31px;color: #337792;font-weight: 500;
+	}
+
+	span.排便不順族群{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 391px;right : 137px;font-size: 23px;color: #337792;font-weight: 300;
+	}
+
+	span.嚴選成分讓菌叢生態系多元完整{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 507px;right : 106px;font-size: 15px;color: #337792;font-weight: 400;
+	}
+
+	span.禦外來攻擊排便順暢{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 529px;right : 107px;font-size: 15px;color: #337792;font-weight: 400;
+	}
+
+	span.III{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 52px;right : 152px;font-size: 31px;color: #444341;font-weight: 500;
+	}
+
+	span.凝乳芽孢桿菌{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 428px;right : 368px;font-size: 15px;color: #878787;font-weight: 500;
+	}
+
+	span.日本專利{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 428px;right : 89px;font-size: 15px;color: #878787;font-weight: 500;
+	}
+
+	span.微化型植物乳酸菌{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 448px;right : 119px;font-size: 15px;color: #878787;font-weight: 500;
+	}
+	
+	span.微化型植物乳酸菌{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 448px;right : 119px;font-size: 15px;color: #878787;font-weight: 500;
+	}
+
+	span.黃金奇異果粉{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 583px;right : 368px;font-size: 15px;color: #878787;font-weight: 500;
+	}
+	
+	span.Sensus{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 583px;right : 121px;font-size: 15px;color: #878787;font-weight: 500;
+	}
+	
+	span.除了有維持正常消化道菌叢生態{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 666px;right : 111px;font-size: 15px;color: #878787;font-weight: 500;
+	}
+	
+	SPAN.孢桿菌BC1031{
+		POSITION: ABSOLUTE;//設為絕對定位(ABSOLUTE)
+		FONT-WEIGHT: BOLD;
+		COLOR: #017895;
+		TEXT-ALIGN: CENTER;
+		TOP: 687PX;RIGHT : 116PX;FONT-SIZE: 15PX;COLOR: #878787;FONT-WEIGHT: 500;
+	}
+	
+	SPAN.能{
+		POSITION: ABSOLUTE;//設為絕對定位(ABSOLUTE)
+		FONT-WEIGHT: BOLD;
+		COLOR: #017895;
+		TEXT-ALIGN: CENTER;
+		TOP: 710PX;RIGHT : 124PX;FONT-SIZE: 15PX;COLOR: #878787;FONT-WEIGHT: 500;
+	}
+	
+	
+	SPAN.替身體打造更完{
+		POSITION: ABSOLUTE;//設為絕對定位(ABSOLUTE)
+		FONT-WEIGHT: BOLD;
+		COLOR: #017895;
+		text-align: center;
+		top: 732px;right : 110px;font-size: 15px;color: #878787;font-weight: 500;
+	}
+	
+	span.整多元的菌叢生態系{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 753px;right : 351px;font-size: 15px;color: #878787;font-weight: 500;
+	}
+	
+	span.IV{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 52px;right : 152px;font-size: 31px;color: #fffffe;font-weight: 500;
+	}
+	
+	span.地球只有一個{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 122px;right : 96px;font-size: 15px;color: #fffffe;font-weight: 300;
+	}
+	
+	span.康{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 143px;right : 96px;font-size: 15px;color: #fffffe;font-weight: 300;
+	}
+	
+	span.使我們不斷努力打造更天然{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 166px;right : 184px;font-size: 15px;color: #fffffe;font-weight: 300;
+	}
+	
+	span.成分原料{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 115px;right : 236px;font-size: 31px;color: #474342;font-weight: 500;
+	}
+	
+	span.我們該清楚明白地知道{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 172px;right : 154px;font-size: 25px;color: #474342;font-weight: 600;
+	}
+	
+	span.凝乳芽孢桿菌BC10312{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 260px;right : 140px;font-size: 23px;color: #474342;font-weight: 700;
+	}
+	
+	span.具有高穩定性{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 315px;right : 87px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.有機酸與抑菌素{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 336px;right : 87px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+
+	span.正常消化道菌叢生態{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 356px;right : 206px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.通過美國GRAS{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 377px;right : 124px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.範檢驗{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 398px;right : 207px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+
+	span.日本專利2{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 494px;right : 91px;font-size: 23px;color: #474342;font-weight: 700;
+	}
+	
+	span.微化型植物乳酸菌2{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 521px;right : 177px;font-size: 23px;color: #474342;font-weight: 700;
+	}
+
+	span.透過專利{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 575px;right : 92px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.術{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 599px;right : 92px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.能為人體提供健康益處的益生菌菌體成分{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 620px;right : 92px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+
+	span.貨菌的代謝產物{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 642px;right : 92px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.質安全有保障{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 663px;right : 257px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.黃金奇異果粉3{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 753px;right : 140px;font-size: 23px;color: #474342;font-weight: 700;
+	}
+	
+	span.採用SunGold{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 803px;right : 99px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.專利製程專利凍乾技術{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 823px;right : 99px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+
+	span.奇異果酵素活性和纖維含量{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 845px;right : 168px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.此外{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 867px;right : 110px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.能提升普世糞桿菌含量{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 888px;right : 96px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.有益於調整體質{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 910px;right : 245px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+
+	span.菊苣纖維{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 1002px;right : 184px;font-size: 23px;color: #474342;font-weight: 700;
+	}
+
+	span.來自天然菊苣植物{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 1053px;right : 100px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.的根是Frutafit{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 1075px;right : 106px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.然來源低聚果糖{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 1096px;right : 92px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.食纖維及益生質{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 1117px;right : 93px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.機能{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 1138px;right : 118px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+
+	span.狀態{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 1160px;right : 122px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.符合天然標準{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 1183px;right : 254px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.每一小包含{
+		position: absolute;//設為絕對定位(absolute)
+		color: #017895;
+		text-align: center;
+		top: 56px;right : 452px;font-size: 20px;color: #4f4e4c;font-weight: 700;
+	}
+	
+	span.凝乳芽孢乳酸菌4{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 112px;right : 420px;font-size: 20px;color: #878787;font-weight: 600;
+	}
+
+	span.SNK乳酸菌2{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 147px;right : 457px;font-size: 20px;color: #878787;font-weight: 600;
+	}
+	
+	span.菊糖{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 185px;right : 517px;font-size: 20px;color: #878787;font-weight: 600;
+	}
+	
+	span.黃金奇異果粉4{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 221px;right : 436px;font-size: 20px;color: #878787;font-weight: 600;
+	}
+	
+	span.mg200{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 110px;right : 50px;font-size: 20px;color: #878787;font-weight: 600;
+	}
+	
+	span.mg30{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 146px;right : 50px;font-size: 20px;color: #878787;font-weight: 600;
+	}
+
+	span.mg1640{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 184px;right : 50px;font-size: 20px;color: #878787;font-weight: 600;
+	}
+	
+	span.mg100{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 220px;right : 50px;font-size: 20px;color: #878787;font-weight: 600;
+	}
+	
+	span.其他完整成分{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 325px;right : 431px;font-size: 17px;color: #878787;font-weight: 600;
+	}
+	
+	span.二氧化矽{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 325px;right : 308px;font-size: 17px;color: #878787;font-weight: 600;
+	}
+	
+	span.建議食用方式{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 412px;right : 421px;font-size: 20px;color: #494846;font-weight: 600;
+	}
+	
+	span.每次1包{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 448px;right : 341px;font-size: 25px;color: #494846;font-weight: 800;
+	}
+	
+	span.搭配冷或溫開水食用{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 493px;right : 259px;font-size: 15px;color: #878787;font-weight: 600;
+	}
+	
+	span.每日請勿超過2包{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 518px;right : 340px;font-size: 15px;color: #878787;font-weight: 600;
+	}
+	
+	span.嗯嗯不順{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 107px;right : 471px;font-size: 10px;color: #f6fcfc;font-weight:300;
+	}
+	
+	span.調解體質{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 107px;right : 339px;font-size: 10px;color: #f6fcfc;font-weight:300;
+	}
+	
+	span.容易敏感{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 107px;right : 209px;font-size: 10px;color: #f6fcfc;font-weight:300;
+	}
+	
+	span.蔬果捨攝取不足者{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 107px;right : 55px;font-size: 10px;color: #f6fcfc;font-weight:300;
+	}
+	
+	span.少運動者{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 219px;right : 415px;font-size: 10px;color: #f6fcfc;font-weight:300;
+	}
+	
+	span.經常外食者{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 219px;right : 270px;font-size: 10px;color: #f6fcfc;font-weight:300;
+	}
+	
+	span.久坐上班族{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 219px;right : 130px;font-size: 10px;color: #f6fcfc;font-weight:300;
+	}
+	
+	span.商品問題{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 44px;right : 210px;font-size: 35px;color: #feffff;font-weight:800;letter-spacing:5px;
+	}	
+
+	span.什麼是植物來源益生菌{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 198px;right : 190px;font-size: 25px;color: #454341;font-weight:800;
+	}	
+	
+	span.專門為素食者打造{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 258px;right : 5px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.皆採用全植萃成分{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 288px;right : 5px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.專利認證實踐{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 317px;right : 5px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.打造專屬於你黃金菌叢生態比例{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 349px;right : 165px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.暢快舒敏植物來源益生菌建議食用方法{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 438px;right : 23px;font-size: 25px;color: #454341;font-weight:800;
+	}
+	
+	span.益生菌建議每次一包{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 499px;right : 10px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.酸菌BC1031具有高穩定性和耐受性等特性{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 528px;right : 16px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.降低益生菌在消化道中被酵素破壞的機率{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 557px;right : 9px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.飯後皆可食用喔{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 588px;right : 308px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.暢快舒敏植物來源益生菌推薦原因{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 677px;right : 73px;font-size: 25px;color: #454341;font-weight:800;
+	}
+	
+	
+	span.嚴選獨特的孢子型凝乳芽孢桿菌BC1031{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 738px;right : 23px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.的防護殼{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 769px;right : 15px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.常溫中保留滿滿活性{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 800px;right : 15px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.複方{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 831px;right : 93px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.暢快舒敏植物來源益生菌吃多久才有效{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 912px;right : 20px;font-size: 25px;color: #454341;font-weight:800;	
+	}
+	
+	span.補充益生菌是為了調整體質{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 974px;right : 10px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.於幫助消化道機能{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 1006px;right : 10px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.吃{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 1040px;right : 19px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.品牌反而不容易看到成效喔{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 1074px;right : 207px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	div.d1{
+		text-align:center; position: relative;height:1080px;width:600px;justify-content: center;
+	}
+	
+	.d1 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d2{
+		text-align:center; position: relative;height:770px;width:600px;justify-content: center;
+	}
+	
+	.d2 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d3{
+		text-align:center; position: relative;height:200px;width:600px;justify-content: center;
+	}
+	
+	.d3 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d4{
+		text-align:center; position: relative;height:675px;width:600px;justify-content: center;
+	}
+	
+	.d4 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	div.d5{
+		text-align:center; position: relative;height:900px;width:600px;justify-content: center;
+	}
+	
+	.d5 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d6{
+		text-align:center; position: relative;height:300px;width:600px;justify-content: center;
+	}
+	
+	.d6 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d7{
+		text-align:center; position: relative;height:1300px;width:600px;justify-content: center;
+	}
+	
+	.d7 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d8{
+		text-align:center; position: relative;height:650px;width:600px;justify-content: center;
+	}
+	
+	.d8 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d9{
+		text-align:center; position: relative;height:250px;width:600px;justify-content: center;
+	}
+	
+	.d9 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d10{
+		text-align:center; position: relative;height:1200px;width:600px;justify-content: center;
+	}
+	
+	.d10 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	
+}
+
+@media screen and (min-width: 920px) {
+
+	div.main {
+	  display: flex; /* 彈性排版 */
+	  flex-direction: column; /* 彈性方向:列(縱) */
+	  justify-content: center; /* 版面內容:中間 */
+	}
+	
+    div.Ans{
+		font-size: 24px;
+		color:gray;
+		line-height:0.8;
+		margin-left: 30%;
+		margin-right: 38%;
+		width:445px;
+		height:200px;
+		line-height:2;
+		margin-bottom:1%;
+		float:left;
+		text-indent: -2.5rem;
+		text-align-last: left;
+
+	}
+	
+	div.Q{
+		display:inline-block;
+		position: relative;
+		border-width: 1px;
+		border-style: solid; 
+		height: 48px; 
+		border-color: gray; 
+		border-radius: 50px; 
+		letter-spacing: 3px;
+		margin-left:25%
+
+	}
+	
+	div.imgmain {
+		display: flex;
+		justify-content: center;
+
+	}
+	
+	span.QW{
+		position: absolute;
+		top: 8px;
+		right :10px; 
+		font-size: 25px;
+		/*margin-left:5px;*/
+		margin-bottom：25px;
+		line-height: 30px;
+		color:gray;
+	}
+	span.Qback{
+		width:45px; 
+		height:40px; 
+		text-align: center;
+	}
+
+	span.TWOPerfect{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		top: 101px;
+		right : 234px; 
+		color: #3f7995;
+		font-weight:bold;
+		font-size: 20px;
+		text-align: center;
+	}
+	
+	span.blueword{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+	}
+	
+	span.暢快舒敏{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 180px;right : 200px;font-size: 45px;font-weight: 500;
+	}
+	
+	span.植物來源益生菌{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 223px; right : 130px;font-size: 45px;font-weight: 500;
+	}
+	
+	span.一包雙效{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 633px;right : 240px;font-size: 30px;
+	}
+
+	span.調理生理機能{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 693px;right : 200px;font-size: 30px;
+	}
+
+	span.促進新陳代謝{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 753px;right : 200px;font-size: 30px; 
+	}
+
+	span.植萃{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 897px;right : 354px;font-size: 15px;
+	}
+
+	span.無麩質{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 897px;right : 276px;font-size: 15px;
+	}
+	
+	span.天然{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 897px;right : 214px;font-size: 15px;
+	}
+	
+	span.永續地球{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 935px;right : 268px;font-size: 15px;font-weight: 600;
+	}
+
+	span.我們致力於打造天然的保健品{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 956px;right : 195px;font-size: 15px;font-weight: 600;
+	}
+
+	span.選擇讓自然的能量成為永續的力量{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 978px;right : 183px;font-size: 15px;font-weight: 600;
+	}
+	
+	span.全{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 49px;right : 510px;font-size: 20px;
+	}
+
+	span.植{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 49px;right : 456px;font-size: 20px;
+	}
+
+	span.萃{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 49px;right : 401px;font-size: 20px;
+	}
+
+	span.益{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 49px;right : 345px;font-size: 20px;
+	}
+
+	span.生{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 49px;right : 290px;font-size: 20px;
+	}
+
+	span.菌{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 49px;right : 236px;font-size: 20px;
+	}	
+
+	span.大{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 49px;right : 181px;font-size: 20px;
+	}
+
+	span.升{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 49px;right : 126px;font-size: 20px;
+	}
+
+	span.級{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 49px;right : 72px;font-size: 20px;
+	}
+
+	span.益源質{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 194px;right : 201px;font-size: 30px;color: #7de314;
+	}
+
+	span.Biogenics{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 233px;right : 201px;font-size: 20px;color: #7de314;
+	}
+
+	span.益生菌{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 434px;right : 429px;font-size: 30px;color: #02cc9c;
+	}
+
+	span.Probiotics{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 472px;right : 425px;font-size: 20px;color: #02cc9c;
+	}
+	
+	span.益生質{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 509px;right : 88px;font-size: 30px;color: #14a0c1;
+	}
+	
+	span.Prebiotics{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 547px;right : 87px;font-size: 20px;color: #14a0c1;
+	}
+
+	span.打{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 696px;right : 510px;font-size: 20px;
+	}
+
+	span.造{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 696px;right : 455px;font-size: 20px;
+	}
+
+	span.優{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 696px;right : 401px;font-size: 20px;
+	}
+
+	span.質{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 696px;right : 345px;font-size: 20px;
+	}
+
+	span.菌2{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 696px;right : 290px;font-size: 20px;
+	}
+	
+	span.相{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 696px;right : 236px;font-size: 20px;
+	}
+
+	span.金{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 696px;right : 181px;font-size: 20px;
+	}
+
+	span.三{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 696px;right : 126px;font-size: 20px;
+	}
+
+	span.角{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 696px;right : 72px;font-size: 20px;
+	}
+	
+	span.選擇暢快舒敏植物來源益生菌四大理由{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 40px;right : 56px;font-size: 29px;color: #cbe8ea;font-weight: 700;
+	}
+
+	span.益生質2{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 31px;right : 249px;font-size: 15px;color: #52514f;font-weight: 700;
+	}
+
+	span.大獎肯定{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 52px;right : 219px;font-size: 31px;color: #52514f;font-weight: 500;
+	}
+	
+	span.益生質於2020年獲頒肯定{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 143px;right : 153px;font-size: 18px;color: #828282;font-weight: 500;
+	}
+	
+	span.年度最佳益生質{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 167px;right : 118px;font-size: 18px;color: #828282;font-weight: 500;
+	}
+	
+	span.II{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 52px;right : 152px;font-size: 31px;color: #337792;font-weight: 500;
+	}
+
+	span.排便不順族群{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 391px;right : 137px;font-size: 23px;color: #337792;font-weight: 300;
+	}
+
+	span.嚴選成分讓菌叢生態系多元完整{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 507px;right : 106px;font-size: 15px;color: #337792;font-weight: 400;
+	}
+
+	span.禦外來攻擊排便順暢{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 529px;right : 107px;font-size: 15px;color: #337792;font-weight: 400;
+	}
+
+	span.III{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 52px;right : 152px;font-size: 31px;color: #444341;font-weight: 500;
+	}
+
+	span.凝乳芽孢桿菌{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 428px;right : 368px;font-size: 15px;color: #878787;font-weight: 500;
+	}
+
+	span.日本專利{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 428px;right : 89px;font-size: 15px;color: #878787;font-weight: 500;
+	}
+
+	span.微化型植物乳酸菌{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 448px;right : 119px;font-size: 15px;color: #878787;font-weight: 500;
+	}
+	
+	span.微化型植物乳酸菌{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 448px;right : 119px;font-size: 15px;color: #878787;font-weight: 500;
+	}
+
+	span.黃金奇異果粉{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 583px;right : 368px;font-size: 15px;color: #878787;font-weight: 500;
+	}
+	
+	span.Sensus{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 583px;right : 121px;font-size: 15px;color: #878787;font-weight: 500;
+	}
+	
+	span.除了有維持正常消化道菌叢生態{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 666px;right : 111px;font-size: 15px;color: #878787;font-weight: 500;
+	}
+	
+	SPAN.孢桿菌BC1031{
+		POSITION: ABSOLUTE;//設為絕對定位(ABSOLUTE)
+		FONT-WEIGHT: BOLD;
+		COLOR: #017895;
+		TEXT-ALIGN: CENTER;
+		TOP: 687PX;RIGHT : 116PX;FONT-SIZE: 15PX;COLOR: #878787;FONT-WEIGHT: 500;
+	}
+	
+	SPAN.能{
+		POSITION: ABSOLUTE;//設為絕對定位(ABSOLUTE)
+		FONT-WEIGHT: BOLD;
+		COLOR: #017895;
+		TEXT-ALIGN: CENTER;
+		TOP: 710PX;RIGHT : 124PX;FONT-SIZE: 15PX;COLOR: #878787;FONT-WEIGHT: 500;
+	}
+	
+	
+	SPAN.替身體打造更完{
+		POSITION: ABSOLUTE;//設為絕對定位(ABSOLUTE)
+		FONT-WEIGHT: BOLD;
+		COLOR: #017895;
+		text-align: center;
+		top: 732px;right : 110px;font-size: 15px;color: #878787;font-weight: 500;
+	}
+	
+	span.整多元的菌叢生態系{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 753px;right : 351px;font-size: 15px;color: #878787;font-weight: 500;
+	}
+	
+	span.IV{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 52px;right : 152px;font-size: 31px;color: #fffffe;font-weight: 500;
+	}
+	
+	span.地球只有一個{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 122px;right : 96px;font-size: 15px;color: #fffffe;font-weight: 300;
+	}
+	
+	span.康{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 143px;right : 96px;font-size: 15px;color: #fffffe;font-weight: 300;
+	}
+	
+	span.使我們不斷努力打造更天然{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 166px;right : 184px;font-size: 15px;color: #fffffe;font-weight: 300;
+	}
+	
+	span.成分原料{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 115px;right : 236px;font-size: 31px;color: #474342;font-weight: 500;
+	}
+	
+	span.我們該清楚明白地知道{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 172px;right : 154px;font-size: 25px;color: #474342;font-weight: 600;
+	}
+	
+	span.凝乳芽孢桿菌BC10312{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 260px;right : 140px;font-size: 23px;color: #474342;font-weight: 700;
+	}
+	
+	span.具有高穩定性{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 315px;right : 87px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.有機酸與抑菌素{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 336px;right : 87px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+
+	span.正常消化道菌叢生態{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 356px;right : 206px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.通過美國GRAS{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 377px;right : 124px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.範檢驗{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 398px;right : 207px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+
+	span.日本專利2{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 494px;right : 91px;font-size: 23px;color: #474342;font-weight: 700;
+	}
+	
+	span.微化型植物乳酸菌2{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 521px;right : 177px;font-size: 23px;color: #474342;font-weight: 700;
+	}
+
+	span.透過專利{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 575px;right : 92px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.術{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 599px;right : 92px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.能為人體提供健康益處的益生菌菌體成分{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 620px;right : 92px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+
+	span.貨菌的代謝產物{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 642px;right : 92px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.質安全有保障{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 663px;right : 257px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.黃金奇異果粉3{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 753px;right : 140px;font-size: 23px;color: #474342;font-weight: 700;
+	}
+	
+	span.採用SunGold{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 803px;right : 99px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.專利製程專利凍乾技術{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 823px;right : 99px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+
+	span.奇異果酵素活性和纖維含量{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 845px;right : 168px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.此外{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 867px;right : 110px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.能提升普世糞桿菌含量{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 888px;right : 96px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.有益於調整體質{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 910px;right : 245px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+
+	span.菊苣纖維{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 1002px;right : 184px;font-size: 23px;color: #474342;font-weight: 700;
+	}
+
+	span.來自天然菊苣植物{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 1053px;right : 100px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.的根是Frutafit{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 1075px;right : 106px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.然來源低聚果糖{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 1096px;right : 92px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.食纖維及益生質{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 1117px;right : 93px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.機能{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 1138px;right : 118px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+
+	span.狀態{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 1160px;right : 122px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.符合天然標準{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 1183px;right : 254px;font-size: 15px;color: #898989;font-weight: 500;
+	}
+	
+	span.每一小包含{
+		position: absolute;//設為絕對定位(absolute)
+		color: #017895;
+		text-align: center;
+		top: 56px;right : 452px;font-size: 20px;color: #4f4e4c;font-weight: 700;
+	}
+	
+	span.凝乳芽孢乳酸菌4{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 112px;right : 420px;font-size: 20px;color: #878787;font-weight: 600;
+	}
+
+	span.SNK乳酸菌2{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 147px;right : 457px;font-size: 20px;color: #878787;font-weight: 600;
+	}
+	
+	span.菊糖{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 185px;right : 517px;font-size: 20px;color: #878787;font-weight: 600;
+	}
+	
+	span.黃金奇異果粉4{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 221px;right : 436px;font-size: 20px;color: #878787;font-weight: 600;
+	}
+	
+	span.mg200{
+		position: absolute;//設為絕對定位(absolute)
+		font-weight: bold;
+		color: #017895;
+		text-align: center;
+		top: 110px;right : 50px;font-size: 20px;color: #878787;font-weight: 600;
+	}
+	
+	span.mg30{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 146px;right : 50px;font-size: 20px;color: #878787;font-weight: 600;
+	}
+
+	span.mg1640{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 184px;right : 50px;font-size: 20px;color: #878787;font-weight: 600;
+	}
+	
+	span.mg100{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 220px;right : 50px;font-size: 20px;color: #878787;font-weight: 600;
+	}
+	
+	span.其他完整成分{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 325px;right : 431px;font-size: 17px;color: #878787;font-weight: 600;
+	}
+	
+	span.二氧化矽{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 325px;right : 308px;font-size: 17px;color: #878787;font-weight: 600;
+	}
+	
+	span.建議食用方式{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 412px;right : 421px;font-size: 20px;color: #494846;font-weight: 600;
+	}
+	
+	span.每次1包{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 448px;right : 341px;font-size: 25px;color: #494846;font-weight: 800;
+	}
+	
+	span.搭配冷或溫開水食用{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 493px;right : 259px;font-size: 15px;color: #878787;font-weight: 600;
+	}
+	
+	span.每日請勿超過2包{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 518px;right : 340px;font-size: 15px;color: #878787;font-weight: 600;
+	}
+	
+	span.嗯嗯不順{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 107px;right : 471px;font-size: 10px;color: #f6fcfc;font-weight:300;
+	}
+	
+	span.調解體質{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 107px;right : 339px;font-size: 10px;color: #f6fcfc;font-weight:300;
+	}
+	
+	span.容易敏感{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 107px;right : 209px;font-size: 10px;color: #f6fcfc;font-weight:300;
+	}
+	
+	span.蔬果捨攝取不足者{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 107px;right : 55px;font-size: 10px;color: #f6fcfc;font-weight:300;
+	}
+	
+	span.少運動者{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 219px;right : 415px;font-size: 10px;color: #f6fcfc;font-weight:300;
+	}
+	
+	span.經常外食者{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 219px;right : 270px;font-size: 10px;color: #f6fcfc;font-weight:300;
+	}
+	
+	span.久坐上班族{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 219px;right : 130px;font-size: 10px;color: #f6fcfc;font-weight:300;
+	}
+	
+	span.商品問題{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 44px;right : 210px;font-size: 35px;color: #feffff;font-weight:800;letter-spacing:5px;
+	}	
+
+	span.什麼是植物來源益生菌{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 198px;right : 190px;font-size: 25px;color: #454341;font-weight:800;
+	}	
+	
+	span.專門為素食者打造{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 258px;right : 5px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.皆採用全植萃成分{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 288px;right : 5px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.專利認證實踐{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 317px;right : 5px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.打造專屬於你黃金菌叢生態比例{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 349px;right : 165px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.暢快舒敏植物來源益生菌建議食用方法{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 438px;right : 23px;font-size: 25px;color: #454341;font-weight:800;
+	}
+	
+	span.益生菌建議每次一包{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 499px;right : 10px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.酸菌BC1031具有高穩定性和耐受性等特性{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 528px;right : 16px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.降低益生菌在消化道中被酵素破壞的機率{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 557px;right : 9px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.飯後皆可食用喔{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 588px;right : 308px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.暢快舒敏植物來源益生菌推薦原因{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 677px;right : 73px;font-size: 25px;color: #454341;font-weight:800;
+	}
+	
+	
+	span.嚴選獨特的孢子型凝乳芽孢桿菌BC1031{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 738px;right : 23px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.的防護殼{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 769px;right : 15px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.常溫中保留滿滿活性{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 800px;right : 15px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.複方{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 831px;right : 93px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.暢快舒敏植物來源益生菌吃多久才有效{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 912px;right : 20px;font-size: 25px;color: #454341;font-weight:800;	
+	}
+	
+	span.補充益生菌是為了調整體質{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 974px;right : 10px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.於幫助消化道機能{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 1006px;right : 10px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.吃{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 1040px;right : 19px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	span.品牌反而不容易看到成效喔{
+		position: absolute;//設為絕對定位(absolute)
+		text-align: center;
+		top: 1074px;right : 207px;font-size: 20px;color: #666563;font-weight:500;
+	}
+	
+	div.d1{
+		text-align:center; position: relative;height:1080px;width:600px;justify-content: center;
+	}
+	
+	.d1 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d2{
+		text-align:center; position: relative;height:770px;width:600px;justify-content: center;
+	}
+	
+	.d2 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d3{
+		text-align:center; position: relative;height:200px;width:600px;justify-content: center;
+	}
+	
+	.d3 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d4{
+		text-align:center; position: relative;height:675px;width:600px;justify-content: center;
+	}
+	
+	.d4 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	div.d5{
+		text-align:center; position: relative;height:900px;width:600px;justify-content: center;
+	}
+	
+	.d5 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d6{
+		text-align:center; position: relative;height:300px;width:600px;justify-content: center;
+	}
+	
+	.d6 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d7{
+		text-align:center; position: relative;height:1300px;width:600px;justify-content: center;
+	}
+	
+	.d7 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d8{
+		text-align:center; position: relative;height:650px;width:600px;justify-content: center;
+	}
+	
+	.d8 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d9{
+		text-align:center; position: relative;height:250px;width:600px;justify-content: center;
+	}
+	
+	.d9 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	div.d10{
+		text-align:center; position: relative;height:1200px;width:600px;justify-content: center;
+	}
+	
+	.d10 img {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  left: 0;
+		  bottom: 0;
+		  width: 100%;
+		  height: 100%;
+		  object-fit: cover;
+		  object-position: center;
+	}
+	
+	
+}
