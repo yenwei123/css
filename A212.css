@@ -938,8 +938,9 @@
 	}
 	
 	div.d1{
-		text-align:center; position: relative;height:1080px;width:385.43px;justify-content: center;
+		text-align:center; position: relative;height:1102px;width:385.43px;justify-content: center;
 	}
+	
 	.d1 img {
 		  position: absolute;
 		  top: 0;
@@ -953,7 +954,7 @@
 	}
 	
 	div.d2{
-		text-align:center; position: relative;height:770px;width:385.43px;justify-content: center;
+		text-align:center; position: relative;height:792;width:385.43px;justify-content: center;
 	}
 	
 	.d2 img {
