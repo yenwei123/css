@@ -58,10 +58,9 @@
 	}
 
 	span.TWOPerfect{
-		position: absolute;//設為絕對定位(absolute)
-		font-weight: bold;
-		top: 67px;
-		right : 154px; 
+		position: absolute;
+		top: 63px;
+		right : 144px; 
 		color: #3f7995;
 		font-weight:bold;
 		font-size: 12px;
@@ -76,91 +75,86 @@
 	}
 	
 	span.暢快舒敏{
-		position: absolute;//設為絕對定位(absolute)
-		font-weight: bold;
+		position: absolute;
 		color: #017895;
 		text-align: center;
-		top: 98px;right : 138px;font-size: 25px;font-weight: 500;
+		top: 94px;right : 128px;font-size: 25px;font-weight: 500;
 	}
 	
 	span.植物來源益生菌{
-		position: absolute;//設為絕對定位(absolute)
-		font-weight: bold;
+		position: absolute;
 		color: #017895;
 		text-align: center;
-		top: 139px; right : 101px;font-size: 25px;font-weight: 500;
+		top: 135px; right : 91px;font-size: 25px;font-weight: 500;
 	}
 	
 	span.一包雙效{
-		position: absolute;//設為絕對定位(absolute)
+		position: absolute;
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 409px;right : 146px;font-size: 25px;
+		top: 405px;right : 136px;font-size: 25px;
 	}
 
 	span.調理生理機能{
-		position: absolute;//設為絕對定位(absolute)
+		position: absolute;
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 448px;right : 120px;font-size: 25px;
+		top: 444px;right : 110px;font-size: 25px;
 	}
 
 	span.促進新陳代謝{
-		position: absolute;//設為絕對定位(absolute)
+		position: absolute;
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 490px;right : 120px;font-size: 25px; 
+		top: 486px;right : 110px;font-size: 25px; 
 	}
 
 	span.植萃{
-		position: absolute;//設為絕對定位(absolute)
+		position: absolute;
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 578px;right : 227px;font-size: 10px;
+		top: 574px;right : 217px;font-size: 10px;
 	}
 
 	span.無麩質{
-		position: absolute;//設為絕對定位(absolute)
+		position: absolute;
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 578px;right : 175px;font-size: 10px;
+		top: 574px;right : 165px;font-size: 10px;
 	}
 	
 	span.天然{
-		position: absolute;//設為絕對定位(absolute)
+		position: absolute;
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 578px;right : 137px;font-size: 10px;
+		top: 574px;right : 127px;font-size: 10px;
 	}
 	
 	span.永續地球{
-		position: absolute;//設為絕對定位(absolute)
-		font-weight: bold;
+		position: absolute;
 		color: #017895;
 		text-align: center;
-		top: 603px;right : 169px;font-size: 10px;font-weight: 600;
+		top: 599px;right : 159px;font-size: 10px;font-weight: 600;
 	}
 
 	span.我們致力於打造天然的保健品{
-		position: absolute;//設為絕對定位(absolute)
-		font-weight: bold;
+		position: absolute;
 		color: #017895;
 		text-align: center;
-		top: 622px;right : 118px;font-size: 10px;font-weight: 600;
+		top: 618px;right : 108px;font-size: 10px;font-weight: 600;
 	}
 
 	span.選擇讓自然的能量成為永續的力量{
-		position: absolute;//設為絕對定位(absolute)
-		font-weight: bold;
+		position: absolute
 		color: #017895;
 		text-align: center;
-		top: 641px;right : 107px;font-size: 10px;font-weight: 600;
+		top: 637px;right : 97px;font-size: 10px;font-weight: 600;
 	}
 	
 	span.全{
