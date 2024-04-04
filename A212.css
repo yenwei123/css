@@ -168,7 +168,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 52px;right : 327px;font-size: 15px;
+		top: 30px;right : 327px;font-size: 15px;
 	}
 
 	span.植{
@@ -176,7 +176,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 52px;right : 293px;font-size: 15px;
+		top: 30px;right : 293px;font-size: 15px;
 	}
 
 	span.萃{
@@ -184,7 +184,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 52px;right : 256px;font-size: 15px;
+		top: 30px;right : 256px;font-size: 15px;
 	}
 
 	span.益{
@@ -192,7 +192,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 52px;right : 221px;font-size: 15px;
+		top: 30px;right : 221px;font-size: 15px;
 	}
 
 	span.生{
@@ -200,7 +200,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 52px;right : 185px;font-size: 15px;
+		top: 30px;right : 185px;font-size: 15px;
 	}
 
 	span.菌{
@@ -208,7 +208,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 52px;right : 151px;font-size: 15px;
+		top: 30px;right : 151px;font-size: 15px;
 	}	
 
 	span.大{
@@ -216,7 +216,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 52px;right : 115px;font-size: 15px;
+		top: 30px;right : 115px;font-size: 15px;
 	}
 
 	span.升{
@@ -224,7 +224,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 52px;right : 80px;font-size: 15px;
+		top: 30px;right : 80px;font-size: 15px;
 	}
 
 	span.級{
@@ -232,21 +232,21 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 52px;right : 45px;font-size: 15px;
+		top: 30px;right : 45px;font-size: 15px;
 	}
 
 	span.益源質{
 		position: absolute;//設為絕對定位(absolute)
 		font-weight: bold;
 		text-align: center;
-		top: 144px;right : 122px;font-size: 25px;color: #7de314;
+		top: 122px;right : 122px;font-size: 25px;color: #7de314;
 	}
 
 	span.Biogenics{
 		position: absolute;//設為絕對定位(absolute)
 		font-weight: bold;
 		text-align: center;
-		top: 174px;right : 126px;font-size: 15px;color: #7de314;
+		top: 152px;right : 126px;font-size: 15px;color: #7de314;
 	}
 
 	span.益生菌{
@@ -254,28 +254,28 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 294px;right : 267px;font-size: 25px;color: #02cc9c;
+		top: 272px;right : 267px;font-size: 25px;color: #02cc9c;
 	}
 
 	span.Probiotics{
 		position: absolute;//設為絕對定位(absolute)
 		font-weight: bold;
 		text-align: center;
-		top: 327px;right : 268px;font-size: 15px;color: #02cc9c;
+		top: 305px;right : 268px;font-size: 15px;color: #02cc9c;
 	}
 	
 	span.益生質{
 		position: absolute;//設為絕對定位(absolute)
 		font-weight: bold;
 		text-align: center;
-		top: 342px;right : 47px;font-size: 25px;color: #14a0c1;
+		top: 320px;right : 47px;font-size: 25px;color: #14a0c1;
 	}
 	
 	span.Prebiotics{
 		position: absolute;//設為絕對定位(absolute)
 		font-weight: bold;
 		text-align: center;
-		top: 376px;right : 50px;font-size: 15px;color: #14a0c1;
+		top: 354px;right : 50px;font-size: 15px;color: #14a0c1;
 	}
 
 	span.打{
@@ -283,7 +283,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 469px;right : 327px;font-size: 15px;
+		top: 447px;right : 327px;font-size: 15px;
 	}
 
 	span.造{
@@ -291,7 +291,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 469px;right : 292px;font-size: 15px;
+		top: 447px;right : 292px;font-size: 15px;
 	}
 
 	span.優{
@@ -299,7 +299,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 469px;right : 257px;font-size: 15px;
+		top: 447px;right : 257px;font-size: 15px;
 	}
 
 	span.質{
@@ -307,7 +307,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 469px;right : 221px;font-size: 15px;
+		top: 447px;right : 221px;font-size: 15px;
 	}
 
 	span.菌2{
@@ -315,7 +315,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 469px;right : 186px;font-size: 15px;
+		top: 447px;right : 186px;font-size: 15px;
 	}
 	
 	span.相{
@@ -323,7 +323,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 469px;right : 152px;font-size: 15px;
+		top: 447px;right : 152px;font-size: 15px;
 	}
 
 	span.金{
@@ -331,7 +331,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 469px;right : 115px;font-size: 15px;
+		top: 447px;right : 115px;font-size: 15px;
 	}
 
 	span.三{
@@ -339,7 +339,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 469px;right : 80px;font-size: 15px;
+		top: 447px;right : 80px;font-size: 15px;
 	}
 
 	span.角{
@@ -347,7 +347,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 469px;right : 45px;font-size: 15px;
+		top: 447px;right : 45px;font-size: 15px;
 	}
 	
 	span.選擇暢快舒敏植物來源益生菌四大理由{
@@ -1141,7 +1141,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 71px;right : 510px;font-size: 20px;
+		top: 49px;right : 510px;font-size: 20px;
 	}
 
 	span.植{
@@ -1149,7 +1149,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 71px;right : 456px;font-size: 20px;
+		top: 49px;right : 456px;font-size: 20px;
 	}
 
 	span.萃{
@@ -1157,7 +1157,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 71px;right : 401px;font-size: 20px;
+		top: 49px;right : 401px;font-size: 20px;
 	}
 
 	span.益{
@@ -1165,7 +1165,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 71px;right : 345px;font-size: 20px;
+		top: 49px;right : 345px;font-size: 20px;
 	}
 
 	span.生{
@@ -1173,7 +1173,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 71px;right : 290px;font-size: 20px;
+		top: 49px;right : 290px;font-size: 20px;
 	}
 
 	span.菌{
@@ -1181,7 +1181,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 71px;right : 236px;font-size: 20px;
+		top: 49px;right : 236px;font-size: 20px;
 	}	
 
 	span.大{
@@ -1189,7 +1189,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 71px;right : 181px;font-size: 20px;
+		top: 49px;right : 181px;font-size: 20px;
 	}
 
 	span.升{
@@ -1197,7 +1197,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 71px;right : 126px;font-size: 20px;
+		top: 49px;right : 126px;font-size: 20px;
 	}
 
 	span.級{
@@ -1205,7 +1205,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 71px;right : 72px;font-size: 20px;
+		top: 49px;right : 72px;font-size: 20px;
 	}
 
 	span.益源質{
@@ -1213,7 +1213,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 216px;right : 201px;font-size: 30px;color: #7de314;
+		top: 194px;right : 201px;font-size: 30px;color: #7de314;
 	}
 
 	span.Biogenics{
@@ -1221,7 +1221,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 255px;right : 201px;font-size: 20px;color: #7de314;
+		top: 233px;right : 201px;font-size: 20px;color: #7de314;
 	}
 
 	span.益生菌{
@@ -1229,7 +1229,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 456px;right : 429px;font-size: 30px;color: #02cc9c;
+		top: 434px;right : 429px;font-size: 30px;color: #02cc9c;
 	}
 
 	span.Probiotics{
@@ -1237,7 +1237,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 494px;right : 425px;font-size: 20px;color: #02cc9c;
+		top: 472px;right : 425px;font-size: 20px;color: #02cc9c;
 	}
 	
 	span.益生質{
@@ -1245,7 +1245,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 531px;right : 88px;font-size: 30px;color: #14a0c1;
+		top: 509px;right : 88px;font-size: 30px;color: #14a0c1;
 	}
 	
 	span.Prebiotics{
@@ -1253,7 +1253,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 569px;right : 87px;font-size: 20px;color: #14a0c1;
+		top: 547px;right : 87px;font-size: 20px;color: #14a0c1;
 	}
 
 	span.打{
@@ -1269,7 +1269,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 718px;right : 455px;font-size: 20px;
+		top: 696px;right : 455px;font-size: 20px;
 	}
 
 	span.優{
@@ -1277,7 +1277,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 718px;right : 401px;font-size: 20px;
+		top: 696px;right : 401px;font-size: 20px;
 	}
 
 	span.質{
@@ -1285,7 +1285,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 718px;right : 345px;font-size: 20px;
+		top: 696px;right : 345px;font-size: 20px;
 	}
 
 	span.菌2{
@@ -1293,7 +1293,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 718px;right : 290px;font-size: 20px;
+		top: 696px;right : 290px;font-size: 20px;
 	}
 	
 	span.相{
@@ -1301,7 +1301,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 718px;right : 236px;font-size: 20px;
+		top: 696px;right : 236px;font-size: 20px;
 	}
 
 	span.金{
@@ -1309,7 +1309,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 718px;right : 181px;font-size: 20px;
+		top: 696px;right : 181px;font-size: 20px;
 	}
 
 	span.三{
@@ -1317,7 +1317,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 718px;right : 126px;font-size: 20px;
+		top: 696px;right : 126px;font-size: 20px;
 	}
 
 	span.角{
@@ -1325,7 +1325,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 718px;right : 72px;font-size: 20px;
+		top: 696px;right : 72px;font-size: 20px;
 	}
 	
 	span.選擇暢快舒敏植物來源益生菌四大理由{
@@ -1464,34 +1464,34 @@
 		top: 688px;right : 111px;font-size: 15px;color: #878787;font-weight: 500;
 	}
 	
-	span.孢桿菌BC1031{
-		position: absolute;//設為絕對定位(absolute)
-		font-weight: bold;
-		color: #017895;
-		text-align: center;
-		top: 709px;right : 116px;font-size: 15px;color: #878787;font-weight: 500;
+	SPAN.孢桿菌BC1031{
+		POSITION: ABSOLUTE;//設為絕對定位(ABSOLUTE)
+		FONT-WEIGHT: BOLD;
+		COLOR: #017895;
+		TEXT-ALIGN: CENTER;
+		TOP: 709PX;RIGHT : 116PX;FONT-SIZE: 15PX;COLOR: #878787;FONT-WEIGHT: 500;
 	}
 	
-	span.能{
-		position: absolute;//設為絕對定位(absolute)
-		font-weight: bold;
-		color: #017895;
-		text-align: center;
-		top: 732px;right : 124px;font-size: 15px;color: #878787;font-weight: 500;
+	SPAN.能{
+		POSITION: ABSOLUTE;//設為絕對定位(ABSOLUTE)
+		FONT-WEIGHT: BOLD;
+		COLOR: #017895;
+		TEXT-ALIGN: CENTER;
+		TOP: 732PX;RIGHT : 124PX;FONT-SIZE: 15PX;COLOR: #878787;FONT-WEIGHT: 500;
 	}
 	
-	span.能{
-		position: absolute;//設為絕對定位(absolute)
-		font-weight: bold;
-		color: #017895;
-		text-align: center;
-		top: 732px;right : 124px;font-size: 15px;color: #878787;font-weight: 500;
+	SPAN.能{
+		POSITION: ABSOLUTE;//設為絕對定位(ABSOLUTE)
+		FONT-WEIGHT: BOLD;
+		COLOR: #017895;
+		TEXT-ALIGN: CENTER;
+		TOP: 732PX;RIGHT : 124PX;FONT-SIZE: 15PX;COLOR: #878787;FONT-WEIGHT: 500;
 	}
 	
-	span.替身體打造更完{
-		position: absolute;//設為絕對定位(absolute)
-		font-weight: bold;
-		color: #017895;
+	SPAN.替身體打造更完{
+		POSITION: ABSOLUTE;//設為絕對定位(ABSOLUTE)
+		FONT-WEIGHT: BOLD;
+		COLOR: #017895;
 		text-align: center;
 		top: 754px;right : 110px;font-size: 15px;color: #878787;font-weight: 500;
 	}
@@ -2076,7 +2076,6 @@
 }
 
 
-
 @media screen and (min-width: 920px) {
 
 	div.main {
@@ -2247,7 +2246,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 71px;right : 510px;font-size: 20px;
+		top: 49px;right : 510px;font-size: 20px;
 	}
 
 	span.植{
@@ -2255,7 +2254,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 71px;right : 456px;font-size: 20px;
+		top: 49px;right : 456px;font-size: 20px;
 	}
 
 	span.萃{
@@ -2263,7 +2262,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 71px;right : 401px;font-size: 20px;
+		top: 49px;right : 401px;font-size: 20px;
 	}
 
 	span.益{
@@ -2271,7 +2270,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 71px;right : 345px;font-size: 20px;
+		top: 49px;right : 345px;font-size: 20px;
 	}
 
 	span.生{
@@ -2279,7 +2278,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 71px;right : 290px;font-size: 20px;
+		top: 49px;right : 290px;font-size: 20px;
 	}
 
 	span.菌{
@@ -2287,7 +2286,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 71px;right : 236px;font-size: 20px;
+		top: 49px;right : 236px;font-size: 20px;
 	}	
 
 	span.大{
@@ -2295,7 +2294,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 71px;right : 181px;font-size: 20px;
+		top: 49px;right : 181px;font-size: 20px;
 	}
 
 	span.升{
@@ -2303,7 +2302,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 71px;right : 126px;font-size: 20px;
+		top: 49px;right : 126px;font-size: 20px;
 	}
 
 	span.級{
@@ -2311,7 +2310,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 71px;right : 72px;font-size: 20px;
+		top: 49px;right : 72px;font-size: 20px;
 	}
 
 	span.益源質{
@@ -2319,7 +2318,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 216px;right : 201px;font-size: 30px;color: #7de314;
+		top: 194px;right : 201px;font-size: 30px;color: #7de314;
 	}
 
 	span.Biogenics{
@@ -2327,7 +2326,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 255px;right : 201px;font-size: 20px;color: #7de314;
+		top: 233px;right : 201px;font-size: 20px;color: #7de314;
 	}
 
 	span.益生菌{
@@ -2335,7 +2334,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 456px;right : 429px;font-size: 30px;color: #02cc9c;
+		top: 434px;right : 429px;font-size: 30px;color: #02cc9c;
 	}
 
 	span.Probiotics{
@@ -2343,7 +2342,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 494px;right : 425px;font-size: 20px;color: #02cc9c;
+		top: 472px;right : 425px;font-size: 20px;color: #02cc9c;
 	}
 	
 	span.益生質{
@@ -2351,7 +2350,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 531px;right : 88px;font-size: 30px;color: #14a0c1;
+		top: 509px;right : 88px;font-size: 30px;color: #14a0c1;
 	}
 	
 	span.Prebiotics{
@@ -2359,7 +2358,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 569px;right : 87px;font-size: 20px;color: #14a0c1;
+		top: 547px;right : 87px;font-size: 20px;color: #14a0c1;
 	}
 
 	span.打{
@@ -2375,7 +2374,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 718px;right : 455px;font-size: 20px;
+		top: 696px;right : 455px;font-size: 20px;
 	}
 
 	span.優{
@@ -2383,7 +2382,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 718px;right : 401px;font-size: 20px;
+		top: 696px;right : 401px;font-size: 20px;
 	}
 
 	span.質{
@@ -2391,7 +2390,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 718px;right : 345px;font-size: 20px;
+		top: 696px;right : 345px;font-size: 20px;
 	}
 
 	span.菌2{
@@ -2399,7 +2398,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 718px;right : 290px;font-size: 20px;
+		top: 696px;right : 290px;font-size: 20px;
 	}
 	
 	span.相{
@@ -2407,7 +2406,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 718px;right : 236px;font-size: 20px;
+		top: 696px;right : 236px;font-size: 20px;
 	}
 
 	span.金{
@@ -2415,7 +2414,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 718px;right : 181px;font-size: 20px;
+		top: 696px;right : 181px;font-size: 20px;
 	}
 
 	span.三{
@@ -2423,7 +2422,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 718px;right : 126px;font-size: 20px;
+		top: 696px;right : 126px;font-size: 20px;
 	}
 
 	span.角{
@@ -2431,7 +2430,7 @@
 		font-weight: bold;
 		color: #017895;
 		text-align: center;
-		top: 718px;right : 72px;font-size: 20px;
+		top: 696px;right : 72px;font-size: 20px;
 	}
 	
 	span.選擇暢快舒敏植物來源益生菌四大理由{
@@ -2570,34 +2569,34 @@
 		top: 688px;right : 111px;font-size: 15px;color: #878787;font-weight: 500;
 	}
 	
-	span.孢桿菌BC1031{
-		position: absolute;//設為絕對定位(absolute)
-		font-weight: bold;
-		color: #017895;
-		text-align: center;
-		top: 709px;right : 116px;font-size: 15px;color: #878787;font-weight: 500;
+	SPAN.孢桿菌BC1031{
+		POSITION: ABSOLUTE;//設為絕對定位(ABSOLUTE)
+		FONT-WEIGHT: BOLD;
+		COLOR: #017895;
+		TEXT-ALIGN: CENTER;
+		TOP: 709PX;RIGHT : 116PX;FONT-SIZE: 15PX;COLOR: #878787;FONT-WEIGHT: 500;
 	}
 	
-	span.能{
-		position: absolute;//設為絕對定位(absolute)
-		font-weight: bold;
-		color: #017895;
-		text-align: center;
-		top: 732px;right : 124px;font-size: 15px;color: #878787;font-weight: 500;
+	SPAN.能{
+		POSITION: ABSOLUTE;//設為絕對定位(ABSOLUTE)
+		FONT-WEIGHT: BOLD;
+		COLOR: #017895;
+		TEXT-ALIGN: CENTER;
+		TOP: 732PX;RIGHT : 124PX;FONT-SIZE: 15PX;COLOR: #878787;FONT-WEIGHT: 500;
 	}
 	
-	span.能{
-		position: absolute;//設為絕對定位(absolute)
-		font-weight: bold;
-		color: #017895;
-		text-align: center;
-		top: 732px;right : 124px;font-size: 15px;color: #878787;font-weight: 500;
+	SPAN.能{
+		POSITION: ABSOLUTE;//設為絕對定位(ABSOLUTE)
+		FONT-WEIGHT: BOLD;
+		COLOR: #017895;
+		TEXT-ALIGN: CENTER;
+		TOP: 732PX;RIGHT : 124PX;FONT-SIZE: 15PX;COLOR: #878787;FONT-WEIGHT: 500;
 	}
 	
-	span.替身體打造更完{
-		position: absolute;//設為絕對定位(absolute)
-		font-weight: bold;
-		color: #017895;
+	SPAN.替身體打造更完{
+		POSITION: ABSOLUTE;//設為絕對定位(ABSOLUTE)
+		FONT-WEIGHT: BOLD;
+		COLOR: #017895;
 		text-align: center;
 		top: 754px;right : 110px;font-size: 15px;color: #878787;font-weight: 500;
 	}
