@@ -1884,7 +1884,7 @@
 		background-image: url('//cdn.cybassets.com/s/files/24541/ckeditor/pictures/content_ec888569-6c1f-4c4c-a0a2-6761723d0e3a.jpg');
 		background-repeat: no-repeat;
 		background-position: center;
-		background-size:693px 385px;
+		background-size:385px 693px ;
 	}
 	
 }
@@ -2959,13 +2959,14 @@
 	}
 	
 	div.p1{
-		height:700px;
-		width:400px;
+		height:1080px;
+		width:600px;
 		background-image: url('//cdn.cybassets.com/s/files/24541/ckeditor/pictures/content_ec888569-6c1f-4c4c-a0a2-6761723d0e3a.jpg');
 		background-repeat: no-repeat;
 		background-position: center;
-		background-size:693px 385px;
+		background-size:600px 1080px;
 	}
+	
 	
 }
 
