@@ -937,9 +937,18 @@
 		top: 717px;right : 144px;font-size: 13px;color: #666563;font-weight:500;
 	}
 	
+	div.p1{
+		height:700px;
+		width:400px;
+		background-image: url('//cdn.cybassets.com/s/files/24541/ckeditor/pictures/content_ec888569-6c1f-4c4c-a0a2-6761723d0e3a.jpg');
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size:385px 693px ;
+	}
+	
 }
 
-@media screen and (min-width: 414px) {
+@media screen and (min-width: 600px) {
 
 	div.main {
 	  display: flex; /* 彈性排版 */
