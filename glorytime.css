@@ -55,7 +55,7 @@
 	
 }
 
-@media screen and (min-width: 920px) {
+@media screen and (min-width: 1200px) {
 	
 	div.imgmain {
 		display: flex;
@@ -67,17 +67,11 @@
 		position: absolute;
 		color: #017895;
 		text-align: center;
-		top: 317px;right : 128px;font-size: 25px;font-weight: 500;
+		top: 317px;
+		right : clamp(2rem, 5 * (1vw + 1vh) / 2, 4rem);
+		font-size: 25px;
 	}
 	
-	span.s2{
-		position: absolute;
-		color: #017895;
-		text-align: center;
-		top: 400px;right : 128px;font-size: 25px;font-weight: 500;
-	}
-	
-
 
 	
 	
