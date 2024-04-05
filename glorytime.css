@@ -67,9 +67,9 @@
 		position: absolute;
 		color: #017895;
 		text-align: center;
-		top: 317px;
-		right : clamp(2rem, 5 * (1vw + 1vh) / 2, 4rem);
-		font-size: 25px;
+		top: 29%;
+		right : 10%;
+		font-size: clamp(2rem, 5 * (1vw + 1vh) / 2, 4rem);
 	}
 	
 
