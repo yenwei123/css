@@ -5,6 +5,20 @@
 		justify-content: center;
 
 	}
+	
+	span.s1{
+		position: absolute;
+		color: #017895;
+		text-align: center;
+		top: 317px;right : 128px;font-size: 25px;font-weight: 500;
+	}
+	
+	span.s2{
+		position: absolute;
+		color: #017895;
+		text-align: center;
+		top: 400px;right : 128px;font-size: 25px;font-weight: 500;
+	}
 
 
 	
@@ -17,6 +31,21 @@
 		display: flex;
 		justify-content: center;
 
+	}
+	
+	
+	span.s1{
+		position: absolute;
+		color: #017895;
+		text-align: center;
+		top: 317px;right : 128px;font-size: 25px;font-weight: 500;
+	}
+	
+	span.s2{
+		position: absolute;
+		color: #017895;
+		text-align: center;
+		top: 400px;right : 128px;font-size: 25px;font-weight: 500;
 	}
 
 
