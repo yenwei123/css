@@ -10,8 +10,8 @@
 		color: #017895;
 		text-align: center;
 		top: 29%;
-		right : calc(100vh - 5px);
-		font-size: 55px;
+		right : calc(100vh - 84vh);
+		font-size: clamp(16px, 5vw, 55px);
 	}
 	
 
