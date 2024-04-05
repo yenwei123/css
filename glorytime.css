@@ -36,14 +36,14 @@
 	
 	span.s1{
 		position: absolute;
-		color: #017895;
+		color: #fcf7f1;
 		text-align: center;
-		top: 317px;right : 128px;font-size: 25px;font-weight: 500;
+		top: calc(1.2rem + (1.3-1.2) * ((100vw - 600px) / (1200 - 600)));right : 128px;font-size: 45px;font-weight: 500;
 	}
 	
 	span.s2{
 		position: absolute;
-		color: #017895;
+		color: #fcf7f1;
 		text-align: center;
 		top: 400px;right : 128px;font-size: 25px;font-weight: 500;
 	}
