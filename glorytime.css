@@ -75,11 +75,18 @@
 
 	}
 
-	span.暢快舒敏{
+	span.s1{
 		position: absolute;
 		color: #017895;
 		text-align: center;
-		top: 94px;right : 128px;font-size: 25px;font-weight: 500;
+		top: 317px;right : 128px;font-size: 25px;font-weight: 500;
+	}
+	
+	span.s2{
+		position: absolute;
+		color: #017895;
+		text-align: center;
+		top: 400px;right : 128px;font-size: 25px;font-weight: 500;
 	}
 	
 
