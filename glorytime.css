@@ -11,7 +11,7 @@
 		text-align: center;
 		top: 29%;
 		right : calc(100vh - 84vh);
-		font-size: clamp(16px, 5vw, 55px);
+		font-size: clamp(16px, -0.875rem + 8.333vw, 55px);
 	}
 	
 
