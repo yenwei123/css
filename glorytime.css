@@ -11,11 +11,22 @@
 		position: absolute;
 		color: #017895;
 		text-align: center;
-		top: 18%;
-		right: 16%;
+		top: 18.5%;
+		right: 16.5%;
 		white-space: nowrap;
 		width: 27%;
-		font-size:clamp(1rem, -0.35rem + 4.5vi, 5.5rem);
+		font-size: clamp(1rem, 0.25rem + 2.5vi, 3.5rem);
+	}
+	
+	span.s2{
+		position: absolute;
+		color: #017895;
+		text-align: center;
+		top: 20%;
+		right: 16.5%;
+		white-space: nowrap;
+		width: 27%;
+		font-size: clamp(1rem, 0.25rem + 2.5vi, 3.5rem);
 	}
 	
 
