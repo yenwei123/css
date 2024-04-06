@@ -1,4 +1,6 @@
-
+	html {
+		font-size: 10px; 
+	}
 	div.imgmain {
 		display: flex;
 		justify-content: center;
@@ -9,11 +11,11 @@
 		position: absolute;
 		color: #017895;
 		text-align: center;
-		top: 120px;
-		right: 0;
-		width: 300px;
-		height: 200px;
-		font-size:clamp(1rem, 0.57rem + 2.294vi, 3.438rem)
+		top: 18%;
+		right: 16%;
+		white-space: nowrap;
+		width: 27%;
+		font-size:clamp(1rem, -0.35rem + 4.5vi, 5.5rem);
 	}
 	
 
