@@ -6,7 +6,7 @@
 	}
 
 	span.s1{
-		position: static;
+		margin:2% 3% 4% 5%;
 		color: #017895;
 		text-align: center;
 		font-size:clamp(1rem, 0.57rem + 2.294vi, 3.438rem)
