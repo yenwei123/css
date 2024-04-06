@@ -29,6 +29,17 @@
 		font-size: clamp(0.5rem, 0.05rem + 1.5vi, 2rem);
 	}
 	
+	span.s3{
+		position: absolute;
+		color: #000000;
+		text-align: center;
+		top: 50%;
+		right: 13%;
+		white-space: nowrap;
+		width: 27%;
+		font-size: clamp(0.3rem, -0.06rem + 1.2vi, 1.5rem);
+	}
+	
 
 	
 	
