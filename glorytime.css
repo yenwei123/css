@@ -12,7 +12,7 @@
 		color: #017895;
 		text-align: center;
 		top: 18.5%;
-		right: 16.5%;
+		right: 12.5%;
 		white-space: nowrap;
 		width: 27%;
 		font-size: clamp(1rem, 0.25rem + 2.5vi, 3.5rem);
@@ -22,11 +22,11 @@
 		position: absolute;
 		color: #017895;
 		text-align: center;
-		top: 20%;
-		right: 16.5%;
+		top: 26%;
+		right: 12.5%;
 		white-space: nowrap;
 		width: 27%;
-		font-size: clamp(1rem, 0.25rem + 2.5vi, 3.5rem);
+		font-size: clamp(0.5rem, -0.1rem + 2vi, 2.5rem);
 	}
 	
 
