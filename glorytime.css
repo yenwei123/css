@@ -33,8 +33,48 @@
 		position: absolute;
 		color: #000000;
 		text-align: center;
-		top: 50%;
-		right: 13%;
+		top: 45%;
+		right: 13.5%;
+		white-space: nowrap;
+		width: 27%;
+		font-size: clamp(0.5rem, 0.05rem + 1.5vi, 2rem);
+	}
+	span.s4{
+		position: absolute;
+		color: #000000;
+		text-align: center;
+		top: 47%;
+		right: 13.5%;
+		white-space: nowrap;
+		width: 27%;
+		font-size: clamp(0.5rem, 0.05rem + 1.5vi, 2rem);
+	}
+	span.s5{
+		position: absolute;
+		color: #000000;
+		text-align: center;
+		top: 52%;
+		right: 13.5%;
+		white-space: nowrap;
+		width: 27%;
+		font-size: clamp(0.5rem, 0.05rem + 1.5vi, 2rem);
+	}
+	span.s6{
+		position: absolute;
+		color: #000000;
+		text-align: center;
+		top: 54%;
+		right: 13.5%;
+		white-space: nowrap;
+		width: 27%;
+		font-size: clamp(0.5rem, 0.05rem + 1.5vi, 2rem);
+	}
+	span.s7{
+		position: absolute;
+		color: #000000;
+		text-align: center;
+		top: 56%;
+		right: 13.5%;
 		white-space: nowrap;
 		width: 27%;
 		font-size: clamp(0.5rem, 0.05rem + 1.5vi, 2rem);
