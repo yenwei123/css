@@ -49,12 +49,18 @@
 		width: 27%;
 		font-size: clamp(0.5rem, 0.05rem + 1.5vi, 2rem);
 	}
+	
+
+	
+	
+@media screen and (min-width: 375px) {
+	
 	span.s5{
 		position: absolute;
 		color: #000000;
 		text-align: center;
 		top: 71%;
-		right: 8%;
+		right: 7.5%;
 		white-space: nowrap;
 		width: 27%;
 		font-size: clamp(0.5rem, 0.05rem + 1.5vi, 2rem);
@@ -64,7 +70,7 @@
 		color: #000000;
 		text-align: center;
 		top: 80%;
-		left: 61.5%;
+		left: 62%;
 		white-space: nowrap;
 		width: 27%;
 		font-size: clamp(0.5rem, 0.05rem + 1.5vi, 2rem);
@@ -74,13 +80,78 @@
 		color: #000000;
 		text-align: center;
 		top: 89%;
-		right: 10.8%;
+		right: 9.8%;
+		white-space: nowrap;
+		width: 27%;
+		font-size: clamp(0.5rem, 0.05rem + 1.5vi, 2rem);
+	}
+}
+@media screen and (min-width: 650px) {
+	
+	span.s5{
+		position: absolute;
+		color: #000000;
+		text-align: center;
+		top: 71%;
+		right: 7.5%;
+		white-space: nowrap;
+		width: 27%;
+		font-size: clamp(0.5rem, 0.05rem + 1.5vi, 2rem);
+	}
+	span.s6{
+		position: absolute;
+		color: #000000;
+		text-align: center;
+		top: 80%;
+		left: 62%;
+		white-space: nowrap;
+		width: 27%;
+		font-size: clamp(0.5rem, 0.05rem + 1.5vi, 2rem);
+	}
+	span.s7{
+		position: absolute;
+		color: #000000;
+		text-align: center;
+		top: 89%;
+		right: 9.8%;
 		white-space: nowrap;
 		width: 27%;
 		font-size: clamp(0.5rem, 0.05rem + 1.5vi, 2rem);
 	}
 	
-
+}
+@media screen and (min-width: 920px) {
+	
+	span.s5{
+		position: absolute;
+		color: #000000;
+		text-align: center;
+		top: 71%;
+		right: 7.5%;
+		white-space: nowrap;
+		width: 27%;
+		font-size: clamp(0.5rem, 0.05rem + 1.5vi, 2rem);
+	}
+	span.s6{
+		position: absolute;
+		color: #000000;
+		text-align: center;
+		top: 80%;
+		left: 62%;
+		white-space: nowrap;
+		width: 27%;
+		font-size: clamp(0.5rem, 0.05rem + 1.5vi, 2rem);
+	}
+	span.s7{
+		position: absolute;
+		color: #000000;
+		text-align: center;
+		top: 89%;
+		right: 9.8%;
+		white-space: nowrap;
+		width: 27%;
+		font-size: clamp(0.5rem, 0.05rem + 1.5vi, 2rem);
+	}
 	
 	
-
+}
