@@ -22,11 +22,11 @@
 		position: absolute;
 		color: #fffefc;
 		text-align: center;
-		top: 26%;
-		right: 14%;
+		top: 29%;
+		right: 13%;
 		white-space: nowrap;
 		width: 27%;
-		font-size: clamp(0.5rem, -0.1rem + 2vi, 2.5rem);
+		font-size: clamp(0.5rem, 0.05rem + 1.5vi, 2rem);
 	}
 	
 
