@@ -54,7 +54,7 @@
 		color: #000000;
 		text-align: center;
 		top: 71%;
-		left: 65.8%;
+		right: 8%;
 		white-space: nowrap;
 		width: 27%;
 		font-size: clamp(0.5rem, 0.05rem + 1.5vi, 2rem);
